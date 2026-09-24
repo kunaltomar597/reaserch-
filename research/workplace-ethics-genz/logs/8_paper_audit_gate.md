@@ -215,3 +215,58 @@ These are advisory recommendations, not submission blockers.
 - [INFO] **[PRESUBMISSION]** (Line 272) [L1] LaTeX citation should use a non-breaking tie before citation, e.g. `Method~\cite{key}`.
 - [INFO] **[PRESUBMISSION]** (Line 276) [L1] LaTeX citation should use a non-breaking tie before citation, e.g. `Method~\cite{key}`.
 ```
+
+---
+
+# Re-run after the user's go-ahead (refine round 2)
+
+## Changes made (refine, targeted at the gate report)
+Blocker fixes (acronyms defined on first use):
+- "UK" (two places) -> "in the United Kingdom".
+- "TBD" / "EMAIL" came from the author-block placeholders -> title page anonymized for double-blind review (main.tex.tmpl), as in paper 2. Author details can be added at submission.
+- "SPEC" / "FIGURE" came from the leftover "%% FIGURE-SPEC" source comment -> removed with its "%% DESC" line.
+Advisory fixes:
+- [L1] 124 non-breaking ties added before \citep/\citet (exactly the 124 flagged instances).
+- [G2] long paragraphs split at existing topic breaks (introduction paragraph 1; theory exit-voice-loyalty paragraph and alternatives paragraph; literature review closing paragraph; model P1 rationale paragraph, with one sentence moved up next to the argument it contrasts; discussion measurement paragraph); blank lines added between the three contribution items; abstract tightened from 206 to 171 words (template linter floor 170). No content added or removed beyond the abstract wording.
+Not changed: [A1] abstract elements (no results exist in a conceptual paper); the conclusion (template requires one paragraph of 200-320 words); the forward figure reference; the title (still awaiting the author's decision).
+
+## Result (main_flat.tex, PDF text verified identical to main.pdf, 25 pages)
+### Verdict: PASS (was FAIL)
+```
+[audit] File: main_flat.tex | Format: .tex | Language: en | Mode: gate
+[audit] SKIP format: script not found
+[audit] SKIP bib: script not found
+[audit] SKIP figures: script not found
+[audit] SKIP pseudocode: script not found
+[audit] RUN references: check_references.py (origin=audit, own)
+[audit] SKIP visual: not applicable to .tex
+[audit] RUN presubmission: pre_submission_check.py (origin=audit, own)
+[audit] references: 1 issues found
+[audit] presubmission: 3 issues found
+
+# Quality Gate Report
+
+**File**: `/home/user/reaserch-/research/workplace-ethics-genz/main_flat.tex` | **Language**: EN
+**Generated**: 2026-09-24 10:07
+
+## Verdict: PASS
+
+## Checklist
+
+- [PASS] No placeholder text (TODO, FIXME, XXX)
+- [PASS] All figures referenced in text
+- [PASS] All tables referenced in text
+- [PASS] Anonymous submission (blind review check)
+- [PASS] Consistent math notation
+- [PASS] Acronyms defined on first use
+
+## Advisory Recommendations (non-blocking)
+
+These are advisory recommendations, not submission blockers.
+
+- [INFO] **[REFERENCES]** (Line 132) Reference before definition: \ref{fig:model} at line 132 appears before label definition at line 164
+- [INFO] **[PRESUBMISSION]** [A1] Abstract five-element check is incomplete; missing background, objective, results.
+- [INFO] **[PRESUBMISSION]** (Line 134) [G2] Long paragraph detected (358 words, 5 sentences); split or add a clearer topic sentence.
+- [INFO] **[PRESUBMISSION]** (Line 294) [G2] Long paragraph detected (221 words, 7 sentences); split or add a clearer topic sentence.
+```
+Notes on the remaining advisories: line 132 is the forward reference to Figure 1; line 134 is the figure environment (TikZ source plus caption read as one paragraph by the heuristic); line 294 is the conclusion. draft_lint ok, citations_lint ok (2 unchanged band warnings), run_gates all passed, LaTeX 0 errors.
