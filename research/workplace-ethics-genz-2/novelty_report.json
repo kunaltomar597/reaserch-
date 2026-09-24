@@ -1,0 +1,15 @@
+{
+  "max_similarity": null,
+  "risk_level": "low-to-medium",
+  "threshold_high": 0.88,
+  "threshold_medium": 0.82,
+  "basis": "lexical/judgement only - not a semantic guarantee (no embedding endpoint; bundled KG is off-domain)",
+  "top_similar": [
+    {"work": "Paik & Gilmore (2026), Human Resource Development Quarterly 37(2)", "overlap": "remote onboarding; fewer interactions with insiders", "difference": "qualitative study of membership ambiguity and insider support; not about ethical norms, persistence, or generations"},
+    {"work": "Brown, Trevino & Harrison (2005); Brown & Trevino (2006)", "overlap": "social learning account of ethical leadership and role modeling", "difference": "assumes followers can observe leaders; no treatment of distributed entry or persistence"},
+    {"work": "Tilcsik (2014); Marquis & Tilcsik (2013); Azoulay, Liu & Stuart (2017)", "overlap": "conditions at entry leave lasting imprints on individuals", "difference": "outcomes are performance and entrepreneurial behavior, not ethical norms; no distributed-work condition"},
+    {"work": "Ashforth & Anand (2003)", "overlap": "newcomers socialized into normalized corruption", "difference": "does not consider how the channel of socialization (co-located vs distributed) changes transmission"},
+    {"work": "Practitioner commentary on Gen Z remote onboarding (blogs, consultancies)", "overlap": "Gen Z missed in-person learning", "difference": "not peer reviewed; no theory of ethical norm transmission; not cited"}
+  ],
+  "verdict": "proceed - no located work links distributed entry to the transmission and persistence of enacted ethical norms, or proposes the two-sided transmission effect; the angle is distinct from paper 1"
+}

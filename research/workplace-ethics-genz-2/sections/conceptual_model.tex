@@ -1,0 +1,101 @@
+\subsection{Overview}
+
+Figure~\ref{fig:model} summarizes the model. Its starting point is distributed entry, meaning that a newcomer spends much of the entry period working apart from supervisors and colleagues. The model proposes that distributed entry reduces observational access to ethical conduct and, through it, the newcomer's clarity about the ethical norms the work unit actually practices. Leaders who narrate the ethical reasoning behind their decisions can offset part of this loss. Because clarity about enacted norms is what allows those norms to shape a newcomer's conduct, distributed entry weakens their influence whether they are ethical or not. The effects are proposed to persist after the entry period and to follow the conditions of entry rather than birth cohort. Each arrow in the figure is a proposition that has not been tested.
+
+\begin{figure}[htb]\centering
+\resizebox{\linewidth}{!}{%
+\begin{tikzpicture}[font=\small, box/.style={draw, rounded corners=2pt, align=center, minimum height=10mm, fill=white}, mod/.style={draw, dashed, rounded corners=2pt, align=center, minimum height=9mm, fill=white}, note/.style={draw, dotted, rounded corners=2pt, align=center, minimum height=9mm, fill=white}, arr/.style={-{Stealth[length=2.2mm]}, thick}, marr/.style={-{Stealth[length=2mm]}, dashed}, narr/.style={-{Stealth[length=2mm]}, dotted}]
+\node[box, text width=24mm] (de) at (0,0) {Distributed\\entry};
+\node[box, text width=36mm] (oa) at (5.0,0) {Observational access\\to ethical conduct};
+\node[box, text width=28mm] (enc) at (10.2,0) {Enacted-norm\\clarity};
+\node[mod, text width=28mm] (len) at (7.75,2.7) {Leader ethical\\narration};
+\node[box, text width=38mm] (eq) at (6.6,-3.0) {Ethical quality of the\\unit's enacted norms};
+\node[box, text width=34mm] (con) at (14.2,-3.0) {Newcomer ethical\\conduct at entry};
+\node[box, text width=34mm] (later) at (14.2,-6.0) {Newcomer ethical\\conduct after entry};
+\node[note, text width=48mm] (p5) at (0.6,-3.3) {P5: effects follow entry\\conditions, not birth cohort};
+\draw[arr] (de) -- node[below, font=\footnotesize] {P1 ($-$)} (oa);
+\draw[arr] (oa) -- node[below, font=\footnotesize] {P1 (+)} (enc);
+\draw[marr] (len.south) -- node[right, font=\footnotesize] {P2} (7.75,0.06);
+\draw[arr] (eq.east) -- (con.west);
+\draw[marr] (enc.south) -- node[right, pos=0.45, font=\footnotesize] {P3} (10.2,-2.94);
+\draw[arr] (con.south) -- node[right, font=\footnotesize, align=left] {P4: persists after\\access equalizes} (later.north);
+\draw[narr] (p5.north) -- (p5.north |- de.south);
+\end{tikzpicture}}
+\caption{The distributed ethical socialization model. Solid arrows show proposed main relationships. P1: distributed entry lowers observational access, which lowers enacted-norm clarity. P2: leader ethical narration makes enacted-norm clarity depend less on observational access, weakening the negative effect of distributed entry. P3: enacted-norm clarity strengthens the influence of the unit's enacted norms on newcomer conduct, whatever their ethical quality, so distributed entry weakens that influence. P4: the resulting differences persist after the entry period. P5: the relationships follow conditions of entry rather than birth cohort. All paths are untested propositions.}\label{fig:model}
+\end{figure}
+
+\subsection{Constructs}
+
+Distributed entry is the extent to which a newcomer's entry period is spent working physically apart from supervisors and colleagues, whether through fully remote or hybrid arrangements. It is a property of work arrangements, measured by how much of the newcomer's time, and how much of the time of the people the newcomer works with, is spent in shared space.
+
+Observational access to ethical conduct is our own construct. We define it as the newcomer's opportunity to see, directly or through channels that make conduct visible, how members of the work unit handle ethically charged situations and what happens to them afterwards. It follows from the emphasis social learning theory places on exposure to models and their consequences~\citep{bandura1977social}. It is also related to the transparency dimension of ethical culture in Kaptein's model, which concerns how visible conduct and its consequences are within an organization~\citep{kaptein2008developing}, but it is defined for the individual newcomer rather than for the organization.
+
+Enacted-norm clarity is also our own construct: the newcomer's understanding of which conduct is actually practiced, rewarded, tolerated, and sanctioned in the work unit when ethical considerations arise. It differs from knowledge of the organization's code of conduct, which concerns espoused norms. The distinction follows research on ethical infrastructure, which separates formal elements such as codes and training from informal elements such as the norms conveyed through everyday interaction~\citep{tenbrunsel2003building}, and it parallels role clarity, one of the indicators of newcomer adjustment in socialization research~\citep{bauer2007newcomer}.
+
+Leader ethical narration, the third of our own constructs, is the extent to which supervisors explicitly explain the ethical considerations behind their decisions, and the consequences of others' conduct, in settings a newcomer can access. It isolates one element of ethical leadership, the explicit communication of ethical expectations~\citep{brown2005ethical}, which is also part of what~\citet{trevino2000moral} called being a moral manager.
+
+The ethical quality of enacted norms is the degree to which the conduct a work unit practices and tolerates is ethical, running from units whose enacted norms support ethical conduct to units in which misconduct has become normal. It draws on research on ethical culture~\citep{trevino1998ethical,kaptein2008developing} and on the normalization of corruption~\citep{ashforth2003normalization}. Newcomer ethical conduct is the newcomer's behavior in ethically relevant situations, such as honesty in reporting and the treatment of colleagues and clients.
+
+Two design choices deserve explanation. We treat enacted-norm clarity, not knowledge of formal codes, as the mediator because formal content travels well at a distance and is therefore unlikely to carry the effect of distributed entry. We include the ethical quality of enacted norms as a moderator rather than assuming that the norms being transmitted are ethical, because the socialization literature documents that newcomers can be socialized into misconduct as readily as into integrity~\citep{ashforth2003normalization}.
+
+\subsection{Distributed Entry and Enacted-Norm Clarity}
+
+Socialization research gives observation a central place in how newcomers learn norms. In a study of new accountants, newcomers sought technical information mainly by asking others, but sought other types of information, including normative information, mainly by observing, and they obtained normative information mostly from peers~\citep{morrison1993newcomer}. Interaction with insiders has long been treated as the main vehicle of early socialization and a determinant of how quickly it proceeds~\citep{reichers1987interactionist}, and insiders help newcomers interpret the surprises that entry produces~\citep{louis1980surprise}.
+
+Research on distributed work suggests that these channels narrow at a distance. A meta-analysis found that telecommuting was not generally harmful to workplace relationships, but that high-intensity telecommuting was associated with worse relationships with coworkers~\citep{gajendran2007good}. Professional isolation was more damaging to performance for teleworkers who spent more time teleworking and less damaging for those with more face-to-face interaction~\citep{golden2008impact}. When a large technology firm moved to firm-wide remote work, its employees' collaboration networks became more static and siloed, and communication shifted toward asynchronous media~\citep{yang2022effects}. Newcomers onboarded remotely described fewer interactions with insiders and found insider support insufficient~\citep{paik2026membership}.
+
+The step from these findings to ethics is our own argument. Ethically charged situations are episodic, and how they are handled is often visible mainly to those present: the hesitation before a decision, the reaction of a senior colleague, what later happens to the person who cut a corner or refused to. Asynchronous written channels tend to record decisions more readily than the reasoning and consequences around them, and consequences are what vicarious learning draws on. Formal ethics content, by contrast, can be delivered remotely with little loss. A newcomer who enters at a distance may therefore know the espoused norms well while knowing the enacted norms poorly, which is the gap between formal and informal systems that ethical infrastructure research describes~\citep{tenbrunsel2003building}.
+
+One might expect newcomers simply to ask about what they cannot see. Research on feedback seeking suggests why asking is a poor substitute where ethics is concerned. People seek information either by inquiry or by monitoring, and inquiry carries image costs because it can reveal uncertainty or incompetence~\citep{ashford2003reflections}. Questions about ethical norms carry a further cost that we infer rather than draw from evidence: asking whether a practice is really acceptable can signal naivety, or suspicion of colleagues. Distance removes much of the monitoring route and leaves the costlier inquiry route, so we expect distant newcomers to acquire less normative information, not merely to acquire it differently.
+
+\begin{proposition}
+Distributed entry is negatively related to newcomers' enacted-norm clarity, and reduced observational access to ethical conduct carries this relationship.
+\end{proposition}
+
+\subsection{Leader Ethical Narration as an Offset}
+
+If distributed entry removes observation, the question becomes whether explicit communication can replace some of what observation would have supplied. Research on ethical leadership suggests that the explicit side of leadership matters. Executives earn a reputation for ethical leadership partly by making ethics a visible part of how they lead, including talking about values and using rewards and discipline in ways others can see~\citep{trevino2000moral}. Ethical leadership has been associated with followers' ethical behavior across studies~\citep{bedi2016meta}, and its effects have been found to travel from top management through supervisors to work groups~\citep{mayer2009how}.
+
+Social learning theory itself allows for this possibility, since it recognizes learning from verbal and symbolic models as well as live ones~\citep{bandura1977social}. The question is whether mediated channels actually carry the relevant models and consequences, and our argument in the previous section was that, left to themselves, they often do not. Two further strands support the idea that deliberate communication can close part of the gap. Vicarious learning can occur through conversation about others' experiences as well as through watching them~\citep{myers2018coactive}. Social media, including the internal platforms many organizations use, afford visibility and persistence of communication~\citep{treem2013social}, and when an enterprise social platform made employees' communications visible to colleagues, those colleagues became better informed about who knew what and who knew whom~\citep{leonardi2015ambient}. Our argument is that a supervisor who explains, in a team meeting or a written update, why a borderline request was refused and what happened when someone ignored a rule turns tacit enacted norms into information a distant newcomer can acquire.
+
+\begin{proposition}
+Leader ethical narration weakens the negative relationship between distributed entry and newcomers' enacted-norm clarity.
+\end{proposition}
+
+Narration has a limit. It carries only what leaders are willing to say. Practices that contradict an organization's stated values are rarely narrated, a point that becomes important in the next proposition.
+
+\subsection{A Two-Sided Effect}
+
+Observation transmits bad norms as well as good ones. The normalization of corruption has been described as resting partly on socialization, through which newcomers come to see corrupt practices as acceptable~\citep{ashforth2003normalization}. In a cross-level field study, the antisocial behavior of employees' coworkers was positively related to employees' own antisocial behavior~\citep{robinson1998monkey}, and a meta-analysis found that characteristics of the organizational environment, including ethical climate and culture, were associated with unethical choices alongside individual and issue characteristics~\citep{kishgephart2010bad}.
+
+Our argument follows from treating enacted-norm clarity as the channel through which a unit's norms reach a newcomer's conduct. The clearer the newcomer's grasp of what the unit actually practices, the more that practice should shape the newcomer's conduct, in whichever direction it points. If distributed entry lowers clarity, it should weaken the unit's influence in both directions. Where enacted norms are ethical, distance is a loss: newcomers pick up less of the integrity their colleagues practice. Where misconduct has been normalized, distance may offer partial protection, because newcomers absorb less of it. In both cases, a distant newcomer's conduct should reflect more of what the newcomer brought to the job and of the formal rules the newcomer was taught. We know of no study that has tested this.
+
+Clarity does not guarantee conformity. A newcomer who clearly sees that misconduct is normal in a unit may recognize it as misconduct and resist or leave. The normalization literature, however, describes how newcomers are drawn into misconduct gradually rather than confronted with it all at once, a process that tends to blunt such recognition~\citep{ashforth2003normalization}. Our claim concerns the average tendency during entry, when newcomers have little power and are still working toward social acceptance~\citep{bauer2007newcomer}; newcomers with strong personal ethical commitments are a likely exception, which we note as a boundary condition.
+
+\begin{proposition}
+Enacted-norm clarity strengthens the relationship between the ethical quality of a work unit's enacted norms and newcomers' ethical conduct. Consequently, distributed entry weakens that relationship, whether the unit's enacted norms are ethical or not.
+\end{proposition}
+
+The limit of narration noted above implies an asymmetry that we flag for future research rather than state as a proposition. Because leaders rarely narrate misconduct, narration should restore the transmission of ethical norms more than the transmission of normalized misconduct.
+
+\subsection{Persistence Beyond Entry}
+
+Imprinting theory predicts that what is formed during a sensitive period persists after conditions change~\citep{marquis2013imprinting}. Evidence at the individual level is consistent with this: conditions at the time of hire have been linked to approaches that shaped later performance~\citep{tilcsik2014imprint}, and early exposure to an adviser's orientation has been linked to later professional choices~\citep{azoulay2017social}. We extend this reasoning to ethics. The ethical schemas a newcomer forms at entry, including the gaps left by limited observation, should shape how the newcomer reads later situations, so that later exposure is interpreted through them rather than replacing them.
+
+There is a reasonable counterargument. Enacted norms are reinforced continually, and a newcomer who later works alongside colleagues has many chances to relearn them. Socialization also continues well beyond entry~\citep{vanmaanen1979toward}. We therefore frame persistence as a comparison: we do not predict that later exposure has no effect, only that it does not fully close the difference created at entry.
+
+\begin{proposition}
+Differences in ethical conduct that arise from distributed entry persist beyond the entry period: newcomers who entered at a distance continue to differ from co-located entrants in how closely their conduct follows the unit's enacted norms, even after their observational access has become comparable.
+\end{proposition}
+
+\subsection{Entry Conditions, Not Birth Cohort}
+
+We frame the model around Generation Z because members of this cohort who began office-based careers in the early 2020s did so when working from home spread widely~\citep{kniffin2021covid}. It is likely, although we have found no data that establish it, that many of them spent part of their entry period at a distance. How many did so is an empirical question we do not try to answer here, and the answer is likely to vary by occupation and country.
+
+Our model does not treat birth cohort as the cause. Reviews of generational research have found cohort differences in work attitudes and values to be small or inconsistent and difficult to separate from age and period~\citep{costanza2012generational,parry2011generational,rudolph2021generations}, although some researchers maintain that generational differences are real and useful~\citep{campbell2015generational}. The model's reasoning is closer to Mannheim's original point that shared formative experiences, not shared birth years, are what can make a cohort into a generation~\citep{mannheim1952problem}. In organizational terms, the relevant unit is what~\citet{joshi2010unpacking} call a cohort-based generation, formed by entering an organization at the same time, rather than an age-based one. Imprinting research makes the same distinction when it separates imprints from cohort effects~\citep{marquis2013imprinting}.
+
+\begin{proposition}
+The relationships in Propositions 1 to 4 depend on the conditions of organizational entry rather than on birth cohort: newcomers from older cohorts who enter at a distance show the same patterns as members of Generation Z who enter at a distance, and members of Generation Z who enter co-located do not show them.
+\end{proposition}
+
+If this proposition holds, the label Generation Z describes a population whose timing of entry coincided with a condition, not a cause of that condition's effects.

@@ -1,0 +1,12 @@
+# Run log index - paper 2 (workplace-ethics-genz-2)
+
+- [0_route.io.md](0_route.io.md)
+- [idea2story.io.md](idea2story.io.md)
+- [1_plan.io.md](1_plan.io.md)
+- [2_cite.io.md](2_cite.io.md)
+- [3_write.io.md](3_write.io.md)
+- [4_refine.io.md](4_refine.io.md)
+- [5_review.io.md](5_review.io.md)
+- [6_figure.io.md](6_figure.io.md)
+- [7_latex.io.md](7_latex.io.md)
+- [8_paper_audit_gate.md](8_paper_audit_gate.md)

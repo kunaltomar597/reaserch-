@@ -1,0 +1,174 @@
+{
+  "name": "conceptual_ob",
+  "display_name": "Conceptual management/OB article (single-column, author-year) - generic LaTeX article class, no venue style",
+  "official": false,
+  "provenance": "Built for this run because the bundled ts_iieta (signal processing) and neurips templates do not fit a conceptual HR/OB paper and the user named no target journal. It uses ONLY the standard LaTeX article class and standard CTAN packages (natbib + apalike, amsthm, geometry, setspace, tikz). No .sty/.cls is authored or approximated, so no venue's style is imitated. Replace with a target journal's official template before submission. Paper 2 variant: the title page is anonymized for double-blind review (no author placeholders).",
+  "engine": {
+    "documentclass": "[12pt,a4paper]{article}",
+    "style_package": "",
+    "is_class": false,
+    "assets": [],
+    "main_template": "main.tex.tmpl"
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "words": [
+        1000,
+        1500
+      ],
+      "recipe": {
+        "contrib_items": 3,
+        "min_cites": 8
+      }
+    },
+    {
+      "id": "literature_review",
+      "title": "Literature Review",
+      "words": [
+        1500,
+        2300
+      ],
+      "recipe": {
+        "theme_subsections": 3,
+        "closing_paragraph": true,
+        "cites_per_theme": [
+          5,
+          12
+        ]
+      }
+    },
+    {
+      "id": "theoretical_framework",
+      "title": "Theoretical Framework and Approach",
+      "words": [
+        1000,
+        1600
+      ],
+      "recipe": {
+        "design_rationale": true
+      }
+    },
+    {
+      "id": "conceptual_model",
+      "title": "Conceptual Model and Propositions",
+      "words": [
+        2000,
+        3000
+      ],
+      "recipe": {
+        "design_rationale": true
+      }
+    },
+    {
+      "id": "discussion",
+      "title": "Discussion and Implications",
+      "words": [
+        1500,
+        2300
+      ],
+      "recipe": {
+        "require_failure_mode": true
+      }
+    },
+    {
+      "id": "conclusion",
+      "title": "Conclusion",
+      "words": [
+        200,
+        320
+      ],
+      "recipe": {
+        "paragraphs": 1,
+        "lists": false
+      }
+    }
+  ],
+  "writing_order": [
+    "theoretical_framework",
+    "conceptual_model",
+    "literature_review",
+    "introduction",
+    "discussion",
+    "conclusion",
+    "abstract"
+  ],
+  "abstract": {
+    "words": [
+      180,
+      250
+    ],
+    "paragraphs": 1,
+    "cites": false,
+    "math": false,
+    "single_paragraph": true
+  },
+  "contributions": {
+    "count": 3
+  },
+  "title": {
+    "max_words": 16,
+    "max_chars": 140
+  },
+  "keywords": {
+    "min": 4,
+    "max": 6,
+    "cap": 6,
+    "lowercase": true
+  },
+  "citations": {
+    "style": "author_year",
+    "natbib_options": "round",
+    "bibstyle": "apalike",
+    "floor": 40,
+    "types": [
+      "CORE",
+      "CONTEXT",
+      "BASELINE",
+      "METRIC",
+      "DEFINITION"
+    ],
+    "per_section_coverage": {
+      "literature_review": [
+        18,
+        34
+      ],
+      "introduction": [
+        8,
+        16
+      ]
+    },
+    "in_abstract": false,
+    "in_headings": false,
+    "merge_adjacent": false
+  },
+  "tables": {
+    "caption_position": "above",
+    "min": 0
+  },
+  "experiment_complexity": "none",
+  "figures": {
+    "caption_position": "below",
+    "min": 1,
+    "distribute_across": [
+      "conceptual_model"
+    ]
+  },
+  "headings": {
+    "case": "title",
+    "numbered": true
+  },
+  "masthead": {
+    "journal": "",
+    "homepage": "",
+    "band_rgb": null,
+    "copyright": "",
+    "doi_prefix": "",
+    "default_vol": "",
+    "default_issue": "",
+    "default_month": "",
+    "default_year": ""
+  },
+  "results_mode": "proposal"
+}

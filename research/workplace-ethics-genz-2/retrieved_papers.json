@@ -1,0 +1,998 @@
+{
+ "source": "ts-idea2story + ts-paper-cite (abstracts not fetched: metadata/publisher hosts blocked by egress policy; placement from WebSearch result summaries)",
+ "papers": [
+  {
+   "paper_id": "bandura1977social",
+   "title": "Social Learning Theory",
+   "authors": [
+    "Bandura, Albert"
+   ],
+   "year": "1977",
+   "venue": "Prentice-Hall",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "",
+   "url": "https://archive.org/details/sociallearningth0000band",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "observational learning; vicarious reinforcement: learning from others' behavior and its consequences"
+  },
+  {
+   "paper_id": "bandura1986social",
+   "title": "Social Foundations of Thought and Action: A Social Cognitive Theory",
+   "authors": [
+    "Bandura, Albert"
+   ],
+   "year": "1986",
+   "venue": "Prentice-Hall",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "",
+   "url": "https://archive.org/details/socialfoundation0000band",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "social cognitive theory: triadic reciprocal influence of personal factors, behavior, environment"
+  },
+  {
+   "paper_id": "manz1981vicarious",
+   "title": "Vicarious Learning: The Influence of Modeling on Organizational Behavior",
+   "authors": [
+    "Manz, Charles C.",
+    "Sims, Henry P."
+   ],
+   "year": "1981",
+   "venue": "Academy of Management Review",
+   "volume": "6",
+   "issue": "1",
+   "pages": "105--113",
+   "doi": "10.5465/amr.1981.4288021",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "vicarious learning in organizations runs through attention, retention, reproduction, motivation"
+  },
+  {
+   "paper_id": "weiss1977subordinate",
+   "title": "Subordinate Imitation of Supervisor Behavior: The Role of Modeling in Organizational Socialization",
+   "authors": [
+    "Weiss, Howard M."
+   ],
+   "year": "1977",
+   "venue": "Organizational Behavior and Human Performance",
+   "volume": "19",
+   "issue": "1",
+   "pages": "89--105",
+   "doi": "",
+   "url": "https://www.sciencedirect.com/science/article/pii/0030507377900563",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "subordinate behavior resembled superiors' more when superiors seen as competent and successful"
+  },
+  {
+   "paper_id": "weiss1978social",
+   "title": "Social Learning of Work Values in Organizations",
+   "authors": [
+    "Weiss, Howard M."
+   ],
+   "year": "1978",
+   "venue": "Journal of Applied Psychology",
+   "volume": "63",
+   "issue": "6",
+   "pages": "711--718",
+   "doi": "",
+   "url": "https://psycnet.apa.org/record/1980-10798-001",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "social learning of work values in organizations"
+  },
+  {
+   "paper_id": "myers2018coactive",
+   "title": "Coactive Vicarious Learning: Toward a Relational Theory of Vicarious Learning in Organizations",
+   "authors": [
+    "Myers, Christopher G."
+   ],
+   "year": "2018",
+   "venue": "Academy of Management Review",
+   "volume": "43",
+   "issue": "4",
+   "pages": "610--634",
+   "doi": "10.5465/amr.2016.0202",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "coactive vicarious learning through discursive interaction"
+  },
+  {
+   "paper_id": "brown2005ethical",
+   "title": "Ethical Leadership: A Social Learning Perspective for Construct Development and Testing",
+   "authors": [
+    "Brown, Michael E.",
+    "Trevi{\\~n}o, Linda K.",
+    "Harrison, David A."
+   ],
+   "year": "2005",
+   "venue": "Organizational Behavior and Human Decision Processes",
+   "volume": "97",
+   "issue": "2",
+   "pages": "117--134",
+   "doi": "10.1016/j.obhdp.2005.03.002",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "ethical leadership defined through social learning; leaders as role models; communication and reinforcement; measure"
+  },
+  {
+   "paper_id": "brown2006ethical",
+   "title": "Ethical Leadership: A Review and Future Directions",
+   "authors": [
+    "Brown, Michael E.",
+    "Trevi{\\~n}o, Linda K."
+   ],
+   "year": "2006",
+   "venue": "The Leadership Quarterly",
+   "volume": "17",
+   "issue": "6",
+   "pages": "595--616",
+   "doi": "10.1016/j.leaqua.2006.10.004",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "review grounding ethical leadership effects in social learning"
+  },
+  {
+   "paper_id": "mayer2009how",
+   "title": "How Low Does Ethical Leadership Flow? Test of a Trickle-Down Model",
+   "authors": [
+    "Mayer, David M.",
+    "Kuenzi, Maribeth",
+    "Greenbaum, Rebecca",
+    "Bardes, Mary",
+    "Salvador, Rommel"
+   ],
+   "year": "2009",
+   "venue": "Organizational Behavior and Human Decision Processes",
+   "volume": "108",
+   "issue": "1",
+   "pages": "1--13",
+   "doi": "",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749597808000551",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "ethical leadership trickles down from top management through supervisors to groups"
+  },
+  {
+   "paper_id": "trevino2000moral",
+   "title": "Moral Person and Moral Manager: How Executives Develop a Reputation for Ethical Leadership",
+   "authors": [
+    "Trevi{\\~n}o, Linda Klebe",
+    "Hartman, Laura Pincus",
+    "Brown, Michael"
+   ],
+   "year": "2000",
+   "venue": "California Management Review",
+   "volume": "42",
+   "issue": "4",
+   "pages": "128--142",
+   "doi": "10.2307/41166057",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "moral manager: making ethics visible and explicit, rewards and discipline"
+  },
+  {
+   "paper_id": "bedi2016meta",
+   "title": "A Meta-Analytic Review of Ethical Leadership Outcomes and Moderators",
+   "authors": [
+    "Bedi, Akanksha",
+    "Alpaslan, Can M.",
+    "Green, Sandy"
+   ],
+   "year": "2016",
+   "venue": "Journal of Business Ethics",
+   "volume": "139",
+   "issue": "3",
+   "pages": "517--536",
+   "doi": "10.1007/s10551-015-2625-1",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "meta-analysis: ethical leadership related to follower ethical behavior"
+  },
+  {
+   "paper_id": "stinchcombe1965social",
+   "title": "Social Structure and Organizations",
+   "authors": [
+    "Stinchcombe, Arthur L."
+   ],
+   "year": "1965",
+   "venue": "Handbook of Organizations",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "",
+   "url": "https://books.google.com/books/about/Social_Structure_and_Organizations.html?id=36yHwgEACAAJ",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "origin of imprinting: organizations bear marks of founding period"
+  },
+  {
+   "paper_id": "marquis2013imprinting",
+   "title": "Imprinting: Toward a Multilevel Theory",
+   "authors": [
+    "Marquis, Christopher",
+    "Tilcsik, Andr{\\'a}s"
+   ],
+   "year": "2013",
+   "venue": "Academy of Management Annals",
+   "volume": "7",
+   "issue": "1",
+   "pages": "195--245",
+   "doi": "10.5465/19416520.2013.766076",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "imprinting in sensitive periods; persistence; distinct from cohort effects"
+  },
+  {
+   "paper_id": "tilcsik2014imprint",
+   "title": "Imprint-Environment Fit and Performance: How Organizational Munificence at the Time of Hire Affects Subsequent Job Performance",
+   "authors": [
+    "Tilcsik, Andr{\\'a}s"
+   ],
+   "year": "2014",
+   "venue": "Administrative Science Quarterly",
+   "volume": "59",
+   "issue": "4",
+   "pages": "639--668",
+   "doi": "10.1177/0001839214549042",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "conditions at time of hire shaped approaches and later performance"
+  },
+  {
+   "paper_id": "azoulay2017social",
+   "title": "Social Influence Given (Partially) Deliberate Matching: Career Imprints in the Creation of Academic Entrepreneurs",
+   "authors": [
+    "Azoulay, Pierre",
+    "Liu, Christopher C.",
+    "Stuart, Toby E."
+   ],
+   "year": "2017",
+   "venue": "American Journal of Sociology",
+   "volume": "122",
+   "issue": "4",
+   "pages": "1223--1271",
+   "doi": "10.1086/689890",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "young scientists adopt advisers' orientation toward commercial science"
+  },
+  {
+   "paper_id": "dokko2009unpacking",
+   "title": "Unpacking Prior Experience: How Career History Affects Job Performance",
+   "authors": [
+    "Dokko, Gina",
+    "Wilk, Steffanie L.",
+    "Rothbard, Nancy P."
+   ],
+   "year": "2009",
+   "venue": "Organization Science",
+   "volume": "20",
+   "issue": "1",
+   "pages": "51--68",
+   "doi": "10.1287/orsc.1080.0357",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "prior experience carries over and can hinder performance in new context"
+  },
+  {
+   "paper_id": "higgins2005career",
+   "title": "Career Imprints: Creating Leaders Across an Industry",
+   "authors": [
+    "Higgins, Monica C."
+   ],
+   "year": "2005",
+   "venue": "Jossey-Bass",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "",
+   "url": "https://www.wiley.com/en-us/Career+Imprints:+Creating+Leaders+Across+An+Industry-p-9780787979300",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "organizations leave career imprints employees carry"
+  },
+  {
+   "paper_id": "vanmaanen1979toward",
+   "title": "Toward a Theory of Organizational Socialization",
+   "authors": [
+    "{Van Maanen}, John",
+    "Schein, Edgar H."
+   ],
+   "year": "1979",
+   "venue": "Research in Organizational Behavior",
+   "volume": "1",
+   "issue": "",
+   "pages": "209--264",
+   "doi": "",
+   "url": "https://www.semanticscholar.org/paper/Toward-a-theory-of-organizational-socialization-Maanen-Schein/eb8b4aa450019035f8c4d72c3c19126615121d65",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "socialization definition; tactic typology incl. serial vs disjunctive; socialization continues"
+  },
+  {
+   "paper_id": "louis1980surprise",
+   "title": "Surprise and Sense Making: What Newcomers Experience in Entering Unfamiliar Organizational Settings",
+   "authors": [
+    "Louis, Meryl Reis"
+   ],
+   "year": "1980",
+   "venue": "Administrative Science Quarterly",
+   "volume": "25",
+   "issue": "2",
+   "pages": "226--251",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10247029/",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "newcomer sensemaking of surprises with insiders' interpretations"
+  },
+  {
+   "paper_id": "reichers1987interactionist",
+   "title": "An Interactionist Perspective on Newcomer Socialization Rates",
+   "authors": [
+    "Reichers, Arnon E."
+   ],
+   "year": "1987",
+   "venue": "Academy of Management Review",
+   "volume": "12",
+   "issue": "2",
+   "pages": "278--287",
+   "doi": "10.5465/amr.1987.4307838",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "interaction with insiders drives socialization rate"
+  },
+  {
+   "paper_id": "morrison1993newcomer",
+   "title": "Newcomer Information Seeking: Exploring Types, Modes, Sources, and Outcomes",
+   "authors": [
+    "Morrison, Elizabeth Wolfe"
+   ],
+   "year": "1993",
+   "venue": "Academy of Management Journal",
+   "volume": "36",
+   "issue": "3",
+   "pages": "557--589",
+   "doi": "10.5465/256592",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "normative information obtained mainly by observation and from peers"
+  },
+  {
+   "paper_id": "ashforth1996socialization",
+   "title": "Socialization Tactics: Longitudinal Effects on Newcomer Adjustment",
+   "authors": [
+    "Ashforth, Blake E.",
+    "Saks, Alan M."
+   ],
+   "year": "1996",
+   "venue": "Academy of Management Journal",
+   "volume": "39",
+   "issue": "1",
+   "pages": "149--178",
+   "doi": "",
+   "url": "https://asu.elsevierpure.com/en/publications/socialization-tactics-longitudinal-effects-on-newcomer-adjustment/",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "institutionalized tactics related to lower role ambiguity, stronger identification"
+  },
+  {
+   "paper_id": "bauer2007newcomer",
+   "title": "Newcomer Adjustment During Organizational Socialization: A Meta-Analytic Review of Antecedents, Outcomes, and Methods",
+   "authors": [
+    "Bauer, Talya N.",
+    "Bodner, Todd",
+    "Erdogan, Berrin",
+    "Truxillo, Donald M.",
+    "Tucker, Jennifer S."
+   ],
+   "year": "2007",
+   "venue": "Journal of Applied Psychology",
+   "volume": "92",
+   "issue": "3",
+   "pages": "707--721",
+   "doi": "10.1037/0021-9010.92.3.707",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "role clarity, self-efficacy, social acceptance as adjustment indicators"
+  },
+  {
+   "paper_id": "ashford2003reflections",
+   "title": "Reflections on the Looking Glass: A Review of Research on Feedback-Seeking Behavior in Organizations",
+   "authors": [
+    "Ashford, Susan J.",
+    "Blatt, Ruth",
+    "VandeWalle, Don"
+   ],
+   "year": "2003",
+   "venue": "Journal of Management",
+   "volume": "29",
+   "issue": "6",
+   "pages": "773--799",
+   "doi": "10.1016/S0149-2063(03)00079-5",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "feedback seeking by inquiry vs monitoring; image costs of inquiry"
+  },
+  {
+   "paper_id": "paik2026membership",
+   "title": "Membership Ambiguity and Insider Support in Remote Socialization: A Qualitative Exploration of Newcomers' Experiences of Remote Onboarding",
+   "authors": [
+    "Paik, Jihyun Esther",
+    "Gilmore, Britney N."
+   ],
+   "year": "2026",
+   "venue": "Human Resource Development Quarterly",
+   "volume": "37",
+   "issue": "2",
+   "pages": "123--137",
+   "doi": "10.1002/hrdq.21560",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "remote newcomers: fewer insider interactions, membership ambiguity, insufficient support, proactive compensation"
+  },
+  {
+   "paper_id": "tenbrunsel2003building",
+   "title": "Building Houses on Rocks: The Role of the Ethical Infrastructure in Organizations",
+   "authors": [
+    "Tenbrunsel, Ann E.",
+    "Smith-Crowe, Kristin",
+    "Umphress, Elizabeth E."
+   ],
+   "year": "2003",
+   "venue": "Social Justice Research",
+   "volume": "16",
+   "issue": "3",
+   "pages": "285--307",
+   "doi": "10.1023/A:1025992813613",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "ethical infrastructure: formal vs informal elements"
+  },
+  {
+   "paper_id": "trevino1998ethical",
+   "title": "The Ethical Context in Organizations: Influences on Employee Attitudes and Behaviors",
+   "authors": [
+    "Trevi{\\~n}o, Linda Klebe",
+    "Butterfield, Kenneth D.",
+    "McCabe, Donald L."
+   ],
+   "year": "1998",
+   "venue": "Business Ethics Quarterly",
+   "volume": "8",
+   "issue": "3",
+   "pages": "447--476",
+   "doi": "",
+   "url": "https://www.cambridge.org/core/journals/business-ethics-quarterly/article/abs/ethical-context-in-organizations-influences-on-employee-attitudes-and-behaviors/9800C789E4BD4781845750B32FAE2640",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "ethical culture vs climate; culture dimension related to unethical conduct in code organizations"
+  },
+  {
+   "paper_id": "kishgephart2010bad",
+   "title": "Bad Apples, Bad Cases, and Bad Barrels: Meta-Analytic Evidence About Sources of Unethical Decisions at Work",
+   "authors": [
+    "Kish-Gephart, Jennifer J.",
+    "Harrison, David A.",
+    "Trevi{\\~n}o, Linda Klebe"
+   ],
+   "year": "2010",
+   "venue": "Journal of Applied Psychology",
+   "volume": "95",
+   "issue": "1",
+   "pages": "1--31",
+   "doi": "",
+   "url": "https://psycnet.apa.org/record/2010-00343-001",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "organizational environment associated with unethical choices alongside individual and issue factors"
+  },
+  {
+   "paper_id": "kaptein2008developing",
+   "title": "Developing and Testing a Measure for the Ethical Culture of Organizations: The Corporate Ethical Virtues Model",
+   "authors": [
+    "Kaptein, Muel"
+   ],
+   "year": "2008",
+   "venue": "Journal of Organizational Behavior",
+   "volume": "29",
+   "issue": "7",
+   "pages": "923--947",
+   "doi": "10.1002/job.520",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "corporate ethical virtues model incl. transparency; ethical culture measure"
+  },
+  {
+   "paper_id": "ashforth2003normalization",
+   "title": "The Normalization of Corruption in Organizations",
+   "authors": [
+    "Ashforth, Blake E.",
+    "Anand, Vikas"
+   ],
+   "year": "2003",
+   "venue": "Research in Organizational Behavior",
+   "volume": "25",
+   "issue": "",
+   "pages": "1--52",
+   "doi": "",
+   "url": "https://www.sciencedirect.com/science/article/abs/pii/S0191308503250012",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "normalization of corruption via socialization of newcomers"
+  },
+  {
+   "paper_id": "robinson1998monkey",
+   "title": "Monkey See, Monkey Do: The Influence of Work Groups on the Antisocial Behavior of Employees",
+   "authors": [
+    "Robinson, Sandra L.",
+    "O'Leary-Kelly, Anne M."
+   ],
+   "year": "1998",
+   "venue": "Academy of Management Journal",
+   "volume": "41",
+   "issue": "6",
+   "pages": "658--672",
+   "doi": "10.5465/256963",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "coworkers' antisocial behavior predicts individuals' antisocial behavior"
+  },
+  {
+   "paper_id": "trevino2006behavioral",
+   "title": "Behavioral Ethics in Organizations: A Review",
+   "authors": [
+    "Trevi{\\~n}o, Linda Klebe",
+    "Weaver, Gary R.",
+    "Reynolds, Scott J."
+   ],
+   "year": "2006",
+   "venue": "Journal of Management",
+   "volume": "32",
+   "issue": "6",
+   "pages": "951--990",
+   "doi": "10.1177/0149206306294258",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "review of behavioral ethics in organizations at several levels"
+  },
+  {
+   "paper_id": "gajendran2007good",
+   "title": "The Good, the Bad, and the Unknown About Telecommuting: Meta-Analysis of Psychological Mediators and Individual Consequences",
+   "authors": [
+    "Gajendran, Ravi S.",
+    "Harrison, David A."
+   ],
+   "year": "2007",
+   "venue": "Journal of Applied Psychology",
+   "volume": "92",
+   "issue": "6",
+   "pages": "1524--1541",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18020794/",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "telecommuting meta-analysis; high-intensity telecommuting harms coworker relationships"
+  },
+  {
+   "paper_id": "golden2008impact",
+   "title": "The Impact of Professional Isolation on Teleworker Job Performance and Turnover Intentions: Does Time Spent Teleworking, Interacting Face-to-Face, or Having Access to Communication-Enhancing Technology Matter?",
+   "authors": [
+    "Golden, Timothy D.",
+    "Veiga, John F.",
+    "Dino, Richard N."
+   ],
+   "year": "2008",
+   "venue": "Journal of Applied Psychology",
+   "volume": "93",
+   "issue": "6",
+   "pages": "1412--1421",
+   "doi": "10.1037/a0012722",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "professional isolation harms performance more with more teleworking; face-to-face buffers"
+  },
+  {
+   "paper_id": "allen2015how",
+   "title": "How Effective Is Telecommuting? Assessing the Status of Our Scientific Findings",
+   "authors": [
+    "Allen, Tammy D.",
+    "Golden, Timothy D.",
+    "Shockley, Kristen M."
+   ],
+   "year": "2015",
+   "venue": "Psychological Science in the Public Interest",
+   "volume": "16",
+   "issue": "2",
+   "pages": "40--68",
+   "doi": "10.1177/1529100615593273",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "review: telecommuting effects depend on how and how much it is used"
+  },
+  {
+   "paper_id": "yang2022effects",
+   "title": "The Effects of Remote Work on Collaboration Among Information Workers",
+   "authors": [
+    "Yang, Longqi",
+    "Holtz, David",
+    "Jaffe, Sonia",
+    "Suri, Siddharth",
+    "Sinha, Shilpi",
+    "Weston, Jeffrey",
+    "Joyce, Connor",
+    "Shah, Neha",
+    "Sherman, Kevin",
+    "Hecht, Brent",
+    "Teevan, Jaime"
+   ],
+   "year": "2022",
+   "venue": "Nature Human Behaviour",
+   "volume": "6",
+   "issue": "1",
+   "pages": "43--54",
+   "doi": "10.1038/s41562-021-01196-4",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "firm-wide remote work made collaboration networks static/siloed and communication asynchronous"
+  },
+  {
+   "paper_id": "kniffin2021covid",
+   "title": "{COVID-19} and the Workplace: Implications, Issues, and Insights for Future Research and Action",
+   "authors": [
+    "Kniffin, Kevin M.",
+    "Narayanan, Jayanth",
+    "Anseel, Frederik",
+    "Antonakis, John",
+    "Ashford, Susan P.",
+    "Bakker, Arnold B.",
+    "others"
+   ],
+   "year": "2021",
+   "venue": "American Psychologist",
+   "volume": "76",
+   "issue": "1",
+   "pages": "63--77",
+   "doi": "10.1037/amp0000716",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "spread of working from home in 2020 and its workplace implications"
+  },
+  {
+   "paper_id": "leonardi2015ambient",
+   "title": "Ambient Awareness and Knowledge Acquisition: Using Social Media to Learn ``Who Knows What'' and ``Who Knows Whom''",
+   "authors": [
+    "Leonardi, Paul M."
+   ],
+   "year": "2015",
+   "venue": "MIS Quarterly",
+   "volume": "39",
+   "issue": "4",
+   "pages": "747--762",
+   "doi": "10.25300/MISQ/2015/39.4.1",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "visible enterprise social media improve metaknowledge of who knows what/whom"
+  },
+  {
+   "paper_id": "treem2013social",
+   "title": "Social Media Use in Organizations: Exploring the Affordances of Visibility, Editability, Persistence, and Association",
+   "authors": [
+    "Treem, Jeffrey W.",
+    "Leonardi, Paul M."
+   ],
+   "year": "2013",
+   "venue": "Annals of the International Communication Association",
+   "volume": "36",
+   "issue": "1",
+   "pages": "143--189",
+   "doi": "10.1080/23808985.2013.11679130",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "social media afford visibility and persistence"
+  },
+  {
+   "paper_id": "mannheim1952problem",
+   "title": "The Problem of Generations",
+   "authors": [
+    "Mannheim, Karl"
+   ],
+   "year": "1952",
+   "venue": "Essays on the Sociology of Knowledge",
+   "volume": "",
+   "issue": "",
+   "pages": "276--320",
+   "doi": "",
+   "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781315005058-7/problem-generations-karl-mannheim-paul-kecskemeti",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "generation through shared formative experience; differentiated responses within cohort"
+  },
+  {
+   "paper_id": "joshi2010unpacking",
+   "title": "Unpacking Generational Identities in Organizations",
+   "authors": [
+    "Joshi, Aparna",
+    "Dencker, John C.",
+    "Franz, Gentzy",
+    "Martocchio, Joseph J."
+   ],
+   "year": "2010",
+   "venue": "Academy of Management Review",
+   "volume": "35",
+   "issue": "3",
+   "pages": "392--414",
+   "doi": "",
+   "url": "https://experts.illinois.edu/en/publications/unpacking-generational-identities-in-organizations/",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "cohort-based vs age-based generational identities"
+  },
+  {
+   "paper_id": "lyons2014generational",
+   "title": "Generational Differences in the Workplace: A Review of the Evidence and Directions for Future Research",
+   "authors": [
+    "Lyons, Sean",
+    "Kuron, Lisa"
+   ],
+   "year": "2014",
+   "venue": "Journal of Organizational Behavior",
+   "volume": "35",
+   "issue": "S1",
+   "pages": "S139--S157",
+   "doi": "10.1002/job.1913",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "generational research largely descriptive, little explanation"
+  },
+  {
+   "paper_id": "parry2011generational",
+   "title": "Generational Differences in Work Values: A Review of Theory and Evidence",
+   "authors": [
+    "Parry, Emma",
+    "Urwin, Peter"
+   ],
+   "year": "2011",
+   "venue": "International Journal of Management Reviews",
+   "volume": "13",
+   "issue": "1",
+   "pages": "79--96",
+   "doi": "10.1111/j.1468-2370.2010.00285.x",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "evidence for generational differences in work values mixed; age/period confounds"
+  },
+  {
+   "paper_id": "costanza2012generational",
+   "title": "Generational Differences in Work-Related Attitudes: A Meta-Analysis",
+   "authors": [
+    "Costanza, David P.",
+    "Badger, Jessica M.",
+    "Fraser, Rebecca L.",
+    "Severt, Jamie B.",
+    "Gade, Paul A."
+   ],
+   "year": "2012",
+   "venue": "Journal of Business and Psychology",
+   "volume": "27",
+   "issue": "4",
+   "pages": "375--394",
+   "doi": "",
+   "url": "https://psycnet.apa.org/record/2012-30193-001",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "meta-analysis: generational differences in work attitudes small"
+  },
+  {
+   "paper_id": "costanza2015generationally",
+   "title": "Generationally Based Differences in the Workplace: Is There a There There?",
+   "authors": [
+    "Costanza, David P.",
+    "Finkelstein, Lisa M."
+   ],
+   "year": "2015",
+   "venue": "Industrial and Organizational Psychology",
+   "volume": "8",
+   "issue": "3",
+   "pages": "308--323",
+   "doi": "",
+   "url": "https://www.cambridge.org/core/journals/industrial-and-organizational-psychology/article/abs/generationally-based-differences-in-the-workplace-is-there-a-there-there/251272D1414CD51F8586ECBAF197E70C",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "little solid evidence and little theory for generational differences"
+  },
+  {
+   "paper_id": "campbell2015generational",
+   "title": "Generational Differences Are Real and Useful",
+   "authors": [
+    "Campbell, W. Keith",
+    "Campbell, Stacy M.",
+    "Siedor, Lane E.",
+    "Twenge, Jean M."
+   ],
+   "year": "2015",
+   "venue": "Industrial and Organizational Psychology",
+   "volume": "8",
+   "issue": "3",
+   "pages": "324--331",
+   "doi": "",
+   "url": "https://www.cambridge.org/core/journals/industrial-and-organizational-psychology/article/abs/generational-differences-are-real-and-useful/B24CCBC7607E993AE0EA03CA31A50A7D",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "defense of generational differences as real and useful"
+  },
+  {
+   "paper_id": "rudolph2017considering",
+   "title": "Considering Generations From a Lifespan Developmental Perspective",
+   "authors": [
+    "Rudolph, Cort W.",
+    "Zacher, Hannes"
+   ],
+   "year": "2017",
+   "venue": "Work, Aging and Retirement",
+   "volume": "3",
+   "issue": "2",
+   "pages": "113--129",
+   "doi": "10.1093/workar/waw019",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "lifespan developmental alternative to generational explanations"
+  },
+  {
+   "paper_id": "rudolph2021generations",
+   "title": "Generations and Generational Differences: Debunking Myths in Organizational Science and Practice and Paving New Paths Forward",
+   "authors": [
+    "Rudolph, Cort W.",
+    "Rauvola, Rachel S.",
+    "Costanza, David P.",
+    "Zacher, Hannes"
+   ],
+   "year": "2021",
+   "venue": "Journal of Business and Psychology",
+   "volume": "36",
+   "issue": "",
+   "pages": "945--967",
+   "doi": "10.1007/s10869-020-09715-2",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "common claims about generations lack support; boundaries conventional"
+  },
+  {
+   "paper_id": "jaakkola2020designing",
+   "title": "Designing Conceptual Articles: Four Approaches",
+   "authors": [
+    "Jaakkola, Elina"
+   ],
+   "year": "2020",
+   "venue": "AMS Review",
+   "volume": "10",
+   "issue": "1--2",
+   "pages": "18--26",
+   "doi": "10.1007/s13162-020-00161-0",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "model-type conceptual article design"
+  },
+  {
+   "paper_id": "whetten1989constitutes",
+   "title": "What Constitutes a Theoretical Contribution?",
+   "authors": [
+    "Whetten, David A."
+   ],
+   "year": "1989",
+   "venue": "Academy of Management Review",
+   "volume": "14",
+   "issue": "4",
+   "pages": "490--495",
+   "doi": "10.5465/amr.1989.4308371",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "elements of theoretical contribution"
+  },
+  {
+   "paper_id": "cornelissen2017developing",
+   "title": "Editor's Comments: Developing Propositions, a Process Model, or a Typology? Addressing the Challenges of Writing Theory Without a Boilerplate",
+   "authors": [
+    "Cornelissen, Joep"
+   ],
+   "year": "2017",
+   "venue": "Academy of Management Review",
+   "volume": "42",
+   "issue": "1",
+   "pages": "1--9",
+   "doi": "10.5465/amr.2016.0196",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "propositional style of theorizing"
+  }
+ ]
+}

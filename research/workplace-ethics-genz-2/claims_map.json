@@ -1,0 +1,257 @@
+{
+ "bandura1977social": {
+  "claim": "observational learning; vicarious reinforcement: learning from others' behavior and its consequences",
+  "support_label": "definition",
+  "section": "introduction"
+ },
+ "bandura1986social": {
+  "claim": "social cognitive theory: triadic reciprocal influence of personal factors, behavior, environment",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "manz1981vicarious": {
+  "claim": "vicarious learning in organizations runs through attention, retention, reproduction, motivation",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "weiss1977subordinate": {
+  "claim": "subordinate behavior resembled superiors' more when superiors seen as competent and successful",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "weiss1978social": {
+  "claim": "social learning of work values in organizations",
+  "support_label": "same_line_support",
+  "section": "theoretical_framework"
+ },
+ "myers2018coactive": {
+  "claim": "coactive vicarious learning through discursive interaction",
+  "support_label": "direct_core",
+  "section": "theoretical_framework"
+ },
+ "brown2005ethical": {
+  "claim": "ethical leadership defined through social learning; leaders as role models; communication and reinforcement; measure",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "brown2006ethical": {
+  "claim": "review grounding ethical leadership effects in social learning",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "mayer2009how": {
+  "claim": "ethical leadership trickles down from top management through supervisors to groups",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "trevino2000moral": {
+  "claim": "moral manager: making ethics visible and explicit, rewards and discipline",
+  "support_label": "direct_core",
+  "section": "conceptual_model"
+ },
+ "bedi2016meta": {
+  "claim": "meta-analysis: ethical leadership related to follower ethical behavior",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "stinchcombe1965social": {
+  "claim": "origin of imprinting: organizations bear marks of founding period",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "marquis2013imprinting": {
+  "claim": "imprinting in sensitive periods; persistence; distinct from cohort effects",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "tilcsik2014imprint": {
+  "claim": "conditions at time of hire shaped approaches and later performance",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "azoulay2017social": {
+  "claim": "young scientists adopt advisers' orientation toward commercial science",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "dokko2009unpacking": {
+  "claim": "prior experience carries over and can hinder performance in new context",
+  "support_label": "same_line_support",
+  "section": "theoretical_framework"
+ },
+ "higgins2005career": {
+  "claim": "organizations leave career imprints employees carry",
+  "support_label": "same_line_support",
+  "section": "theoretical_framework"
+ },
+ "vanmaanen1979toward": {
+  "claim": "socialization definition; tactic typology incl. serial vs disjunctive; socialization continues",
+  "support_label": "definition",
+  "section": "literature_review"
+ },
+ "louis1980surprise": {
+  "claim": "newcomer sensemaking of surprises with insiders' interpretations",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "reichers1987interactionist": {
+  "claim": "interaction with insiders drives socialization rate",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "morrison1993newcomer": {
+  "claim": "normative information obtained mainly by observation and from peers",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "ashforth1996socialization": {
+  "claim": "institutionalized tactics related to lower role ambiguity, stronger identification",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "bauer2007newcomer": {
+  "claim": "role clarity, self-efficacy, social acceptance as adjustment indicators",
+  "support_label": "definition",
+  "section": "literature_review"
+ },
+ "ashford2003reflections": {
+  "claim": "feedback seeking by inquiry vs monitoring; image costs of inquiry",
+  "support_label": "direct_core",
+  "section": "conceptual_model"
+ },
+ "paik2026membership": {
+  "claim": "remote newcomers: fewer insider interactions, membership ambiguity, insufficient support, proactive compensation",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "tenbrunsel2003building": {
+  "claim": "ethical infrastructure: formal vs informal elements",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "trevino1998ethical": {
+  "claim": "ethical culture vs climate; culture dimension related to unethical conduct in code organizations",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "kishgephart2010bad": {
+  "claim": "organizational environment associated with unethical choices alongside individual and issue factors",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "kaptein2008developing": {
+  "claim": "corporate ethical virtues model incl. transparency; ethical culture measure",
+  "support_label": "definition",
+  "section": "conceptual_model"
+ },
+ "ashforth2003normalization": {
+  "claim": "normalization of corruption via socialization of newcomers",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "robinson1998monkey": {
+  "claim": "coworkers' antisocial behavior predicts individuals' antisocial behavior",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "trevino2006behavioral": {
+  "claim": "review of behavioral ethics in organizations at several levels",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "gajendran2007good": {
+  "claim": "telecommuting meta-analysis; high-intensity telecommuting harms coworker relationships",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "golden2008impact": {
+  "claim": "professional isolation harms performance more with more teleworking; face-to-face buffers",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "allen2015how": {
+  "claim": "review: telecommuting effects depend on how and how much it is used",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "yang2022effects": {
+  "claim": "firm-wide remote work made collaboration networks static/siloed and communication asynchronous",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "kniffin2021covid": {
+  "claim": "spread of working from home in 2020 and its workplace implications",
+  "support_label": "context",
+  "section": "introduction"
+ },
+ "leonardi2015ambient": {
+  "claim": "visible enterprise social media improve metaknowledge of who knows what/whom",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "treem2013social": {
+  "claim": "social media afford visibility and persistence",
+  "support_label": "same_line_support",
+  "section": "conceptual_model"
+ },
+ "mannheim1952problem": {
+  "claim": "generation through shared formative experience; differentiated responses within cohort",
+  "support_label": "definition",
+  "section": "introduction"
+ },
+ "joshi2010unpacking": {
+  "claim": "cohort-based vs age-based generational identities",
+  "support_label": "definition",
+  "section": "introduction"
+ },
+ "lyons2014generational": {
+  "claim": "generational research largely descriptive, little explanation",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "parry2011generational": {
+  "claim": "evidence for generational differences in work values mixed; age/period confounds",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "costanza2012generational": {
+  "claim": "meta-analysis: generational differences in work attitudes small",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "costanza2015generationally": {
+  "claim": "little solid evidence and little theory for generational differences",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "campbell2015generational": {
+  "claim": "defense of generational differences as real and useful",
+  "support_label": "context",
+  "section": "introduction"
+ },
+ "rudolph2017considering": {
+  "claim": "lifespan developmental alternative to generational explanations",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "rudolph2021generations": {
+  "claim": "common claims about generations lack support; boundaries conventional",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "jaakkola2020designing": {
+  "claim": "model-type conceptual article design",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "whetten1989constitutes": {
+  "claim": "elements of theoretical contribution",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "cornelissen2017developing": {
+  "claim": "propositional style of theorizing",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ }
+}
