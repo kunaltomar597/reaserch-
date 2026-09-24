@@ -1,0 +1,14 @@
+{
+  "max_similarity": null,
+  "risk_level": "medium",
+  "threshold_high": 0.88,
+  "threshold_medium": 0.82,
+  "basis": "lexical/judgement only - not a semantic guarantee (no embedding endpoint configured; the bundled KG covers signal processing and is off-domain)",
+  "top_similar": [
+    {"work": "Yang & Fong (2026, ahead of print), Journal of Communication Management, doi:10.1108/JCOM-03-2025-0076", "overlap": "links ideological psychological contract and signaling theory to employee online whistleblowing about corporate social advocacy", "difference": "communication-management focus on how firms should message CSA internally; does not model the venue in which the ethical promise was formed, internal voice safety as the boundary between internal and public voice, exit as an alternative outlet, or cohort versus career-stage explanations"},
+    {"work": "Turnley & Feldman (1999), Human Relations 52(7)", "overlap": "psychological contract violation predicts exit, voice, loyalty, neglect", "difference": "general (non-ideological) contracts, managerial sample, no voice-venue distinction, no generational question"},
+    {"work": "Deng, Coyle-Shapiro, Zhu & Wu (2023), Personnel Psychology 76(4)", "overlap": "responses to ideological contract breach", "difference": "compensatory in-role responses (self-affirmation, serving the cause), not voice venue"},
+    {"work": "Kaptein (2011), Journal of Business Ethics 98", "overlap": "ethical culture shapes internal vs external responses to wrongdoing", "difference": "does not involve psychological contracts, promise origin, or generations"}
+  ],
+  "verdict": "proceed - the specific combination (promise publicity -> venue congruence, bounded by internal voice safety, with rival cohort/career-stage propositions) was not found in the searched literature; the Yang & Fong paper is the nearest neighbour and must be cited and differentiated explicitly"
+}

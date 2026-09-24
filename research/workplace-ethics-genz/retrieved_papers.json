@@ -1,0 +1,1030 @@
+{
+ "source": "ts-idea2story + ts-paper-cite (merged; abstracts not fetched because publisher/metadata hosts are blocked by the environment's egress policy; placement based on WebSearch result summaries and the author's knowledge of each paper)",
+ "papers": [
+  {
+   "paper_id": "mannheim1952problem",
+   "title": "The Problem of Generations",
+   "authors": [
+    "Mannheim, Karl"
+   ],
+   "year": "1952",
+   "venue": "Essays on the Sociology of Knowledge",
+   "volume": "",
+   "issue": "",
+   "pages": "276--320",
+   "doi": "",
+   "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781315005058-7/problem-generations-karl-mannheim-paul-kecskemeti",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "generation as shared historical location; shared location is a precondition, not a guarantee, of a shared outlook"
+  },
+  {
+   "paper_id": "twenge2010generational",
+   "title": "Generational Differences in Work Values: Leisure and Extrinsic Values Increasing, Social and Intrinsic Values Decreasing",
+   "authors": [
+    "Twenge, Jean M.",
+    "Campbell, Stacy M.",
+    "Hoffman, Brian J.",
+    "Lance, Charles E."
+   ],
+   "year": "2010",
+   "venue": "Journal of Management",
+   "volume": "36",
+   "issue": "5",
+   "pages": "1117--1142",
+   "doi": "10.1177/0149206309352246",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "time-lag study of US high school seniors: leisure values rose, work centrality fell, no rise in altruistic work values for the most recent cohort studied"
+  },
+  {
+   "paper_id": "costanza2012generational",
+   "title": "Generational Differences in Work-Related Attitudes: A Meta-Analysis",
+   "authors": [
+    "Costanza, David P.",
+    "Badger, Jessica M.",
+    "Fraser, Rebecca L.",
+    "Severt, Jamie B.",
+    "Gade, Paul A."
+   ],
+   "year": "2012",
+   "venue": "Journal of Business and Psychology",
+   "volume": "27",
+   "issue": "4",
+   "pages": "375--394",
+   "doi": "",
+   "url": "https://psycnet.apa.org/record/2012-30193-001",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "meta-analysis: generational differences in job satisfaction, commitment, turnover intention small or near zero"
+  },
+  {
+   "paper_id": "lyons2014generational",
+   "title": "Generational Differences in the Workplace: A Review of the Evidence and Directions for Future Research",
+   "authors": [
+    "Lyons, Sean",
+    "Kuron, Lisa"
+   ],
+   "year": "2014",
+   "venue": "Journal of Organizational Behavior",
+   "volume": "35",
+   "issue": "S1",
+   "pages": "S139--S157",
+   "doi": "10.1002/job.1913",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "review: evidence on generational differences at work is fractured, largely descriptive, methodologically inconsistent"
+  },
+  {
+   "paper_id": "rudolph2018leadership",
+   "title": "Leadership and Generations at Work: A Critical Review",
+   "authors": [
+    "Rudolph, Cort W.",
+    "Rauvola, Rachel S.",
+    "Zacher, Hannes"
+   ],
+   "year": "2018",
+   "venue": "The Leadership Quarterly",
+   "volume": "29",
+   "issue": "1",
+   "pages": "44--57",
+   "doi": "10.1016/j.leaqua.2017.09.004",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "critical review of generations and leadership; lifespan perspective as alternative"
+  },
+  {
+   "paper_id": "rudolph2017considering",
+   "title": "Considering Generations From a Lifespan Developmental Perspective",
+   "authors": [
+    "Rudolph, Cort W.",
+    "Zacher, Hannes"
+   ],
+   "year": "2017",
+   "venue": "Work, Aging and Retirement",
+   "volume": "3",
+   "issue": "2",
+   "pages": "113--129",
+   "doi": "10.1093/workar/waw019",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "lifespan developmental perspective as an alternative to generational explanations"
+  },
+  {
+   "paper_id": "rudolph2021generations",
+   "title": "Generations and Generational Differences: Debunking Myths in Organizational Science and Practice and Paving New Paths Forward",
+   "authors": [
+    "Rudolph, Cort W.",
+    "Rauvola, Rachel S.",
+    "Costanza, David P.",
+    "Zacher, Hannes"
+   ],
+   "year": "2021",
+   "venue": "Journal of Business and Psychology",
+   "volume": "36",
+   "issue": "",
+   "pages": "945--967",
+   "doi": "10.1007/s10869-020-09715-2",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "sets out common claims about generations argued to lack evidential support; generational boundaries set by convention"
+  },
+  {
+   "paper_id": "parry2011generational",
+   "title": "Generational Differences in Work Values: A Review of Theory and Evidence",
+   "authors": [
+    "Parry, Emma",
+    "Urwin, Peter"
+   ],
+   "year": "2011",
+   "venue": "International Journal of Management Reviews",
+   "volume": "13",
+   "issue": "1",
+   "pages": "79--96",
+   "doi": "10.1111/j.1468-2370.2010.00285.x",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "review: evidence for generational differences in work values is mixed; age/cohort confound"
+  },
+  {
+   "paper_id": "joshi2010unpacking",
+   "title": "Unpacking Generational Identities in Organizations",
+   "authors": [
+    "Joshi, Aparna",
+    "Dencker, John C.",
+    "Franz, Gentzy",
+    "Martocchio, Joseph J."
+   ],
+   "year": "2010",
+   "venue": "Academy of Management Review",
+   "volume": "35",
+   "issue": "3",
+   "pages": "392--414",
+   "doi": "",
+   "url": "https://experts.illinois.edu/en/publications/unpacking-generational-identities-in-organizations/",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "generational identity dimensions activated under particular organizational conditions"
+  },
+  {
+   "paper_id": "rousseau1989psychological",
+   "title": "Psychological and Implied Contracts in Organizations",
+   "authors": [
+    "Rousseau, Denise M."
+   ],
+   "year": "1989",
+   "venue": "Employee Responsibilities and Rights Journal",
+   "volume": "2",
+   "issue": "2",
+   "pages": "121--139",
+   "doi": "10.1007/BF01384942",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "definition of the psychological contract as individual beliefs in reciprocal obligations"
+  },
+  {
+   "paper_id": "rousseau2001schema",
+   "title": "Schema, Promise and Mutuality: The Building Blocks of the Psychological Contract",
+   "authors": [
+    "Rousseau, Denise M."
+   ],
+   "year": "2001",
+   "venue": "Journal of Occupational and Organizational Psychology",
+   "volume": "74",
+   "issue": "4",
+   "pages": "511--541",
+   "doi": "10.1348/096317901167505",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "psychological contracts form from pre-entry schemas and promises conveyed during recruitment and socialization"
+  },
+  {
+   "paper_id": "morrison1997employees",
+   "title": "When Employees Feel Betrayed: A Model of How Psychological Contract Violation Develops",
+   "authors": [
+    "Morrison, Elizabeth Wolfe",
+    "Robinson, Sandra L."
+   ],
+   "year": "1997",
+   "venue": "Academy of Management Review",
+   "volume": "22",
+   "issue": "1",
+   "pages": "226--256",
+   "doi": "10.5465/amr.1997.9707180265",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "breach versus violation; reneging versus incongruence; sensemaking preceding violation"
+  },
+  {
+   "paper_id": "robinson2000development",
+   "title": "The Development of Psychological Contract Breach and Violation: A Longitudinal Study",
+   "authors": [
+    "Robinson, Sandra L.",
+    "Morrison, Elizabeth Wolfe"
+   ],
+   "year": "2000",
+   "venue": "Journal of Organizational Behavior",
+   "volume": "21",
+   "issue": "5",
+   "pages": "525--546",
+   "doi": "10.1002/1099-1379(200008)21:5<525::AID-JOB40>3.0.CO;2-T",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "longitudinal study: breach more likely with little pre-hire interaction with organizational agents; violation stronger when breach attributed to reneging and handled unfairly; breach and violation measures"
+  },
+  {
+   "paper_id": "zhao2007impact",
+   "title": "The Impact of Psychological Contract Breach on Work-Related Outcomes: A Meta-Analysis",
+   "authors": [
+    "Zhao, Hao",
+    "Wayne, Sandy J.",
+    "Glibkowski, Brian C.",
+    "Bravo, Jesus"
+   ],
+   "year": "2007",
+   "venue": "Personnel Psychology",
+   "volume": "60",
+   "issue": "3",
+   "pages": "647--680",
+   "doi": "10.1111/j.1744-6570.2007.00087.x",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "meta-analysis linking breach to outcomes via violation and mistrust"
+  },
+  {
+   "paper_id": "thompson2003violations",
+   "title": "Violations of Principle: Ideological Currency in the Psychological Contract",
+   "authors": [
+    "Thompson, Jeffery A.",
+    "Bunderson, J. Stuart"
+   ],
+   "year": "2003",
+   "venue": "Academy of Management Review",
+   "volume": "28",
+   "issue": "4",
+   "pages": "571--586",
+   "doi": "10.5465/amr.2003.10899381",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "ideological currency: credible commitment to a valued cause benefiting parties beyond the employee"
+  },
+  {
+   "paper_id": "turnley1999impact",
+   "title": "The Impact of Psychological Contract Violations on Exit, Voice, Loyalty, and Neglect",
+   "authors": [
+    "Turnley, William H.",
+    "Feldman, Daniel C."
+   ],
+   "year": "1999",
+   "venue": "Human Relations",
+   "volume": "52",
+   "issue": "7",
+   "pages": "895--922",
+   "doi": "10.1177/001872679905200703",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "contract violation associated with more exit, voice, neglect and less loyalty; alternatives moderate violation-exit link"
+  },
+  {
+   "paper_id": "deng2023serving",
+   "title": "Serving the Cause When My Organization Does Not: A Self-Affirmation Model of Employees' Compensatory Responses to Ideological Contract Breach",
+   "authors": [
+    "Deng, H.",
+    "Coyle-Shapiro, J.",
+    "Zhu, Y.",
+    "Wu, C.-H."
+   ],
+   "year": "2023",
+   "venue": "Personnel Psychology",
+   "volume": "76",
+   "issue": "4",
+   "pages": "1161--1186",
+   "doi": "10.1111/peps.12546",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "ideological breach leads to rumination, self-affirmation, and compensatory serving behavior"
+  },
+  {
+   "paper_id": "yang2022going",
+   "title": "Going Above and Beyond for Your Beliefs: The Effects of Ideological Psychological Contract Breach and Fulfillment on Pro-Social Rule Breaking",
+   "authors": [
+    "Yang, Y.",
+    "Brans, I.",
+    "Vantilborgh, T."
+   ],
+   "year": "2022",
+   "venue": "Employee Responsibilities and Rights Journal",
+   "volume": "34",
+   "issue": "",
+   "pages": "515--538",
+   "doi": "10.1007/s10672-021-09400-3",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "ideological breach leads to pro-social rule breaking as corrective behavior"
+  },
+  {
+   "paper_id": "coyleshapiro2019psychological",
+   "title": "Psychological Contracts: Past, Present, and Future",
+   "authors": [
+    "Coyle-Shapiro, Jacqueline A.-M.",
+    "{Pereira Costa}, Sandra",
+    "Doden, Wiebke",
+    "Chang, Chiachi"
+   ],
+   "year": "2019",
+   "venue": "Annual Review of Organizational Psychology and Organizational Behavior",
+   "volume": "6",
+   "issue": "",
+   "pages": "145--169",
+   "doi": "10.1146/annurev-orgpsych-012218-015212",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "review listing ideological currency among directions for future psychological contract research"
+  },
+  {
+   "paper_id": "hirschman1970exit",
+   "title": "Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States",
+   "authors": [
+    "Hirschman, Albert O."
+   ],
+   "year": "1970",
+   "venue": "Harvard University Press",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "",
+   "url": "https://www.hup.harvard.edu/books/9780674276604",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "exit versus voice as responses to organizational decline; loyalty; voice conveys information that exit does not"
+  },
+  {
+   "paper_id": "farrell1983exit",
+   "title": "Exit, Voice, Loyalty, and Neglect as Responses to Job Dissatisfaction: A Multidimensional Scaling Study",
+   "authors": [
+    "Farrell, Dan"
+   ],
+   "year": "1983",
+   "venue": "Academy of Management Journal",
+   "volume": "26",
+   "issue": "4",
+   "pages": "596--607",
+   "doi": "10.5465/255909",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "EVLN typology with active/passive and constructive/destructive dimensions"
+  },
+  {
+   "paper_id": "rusbult1988impact",
+   "title": "Impact of Exchange Variables on Exit, Voice, Loyalty, and Neglect: An Integrative Model of Responses to Declining Job Satisfaction",
+   "authors": [
+    "Rusbult, Caryl E.",
+    "Farrell, Dan",
+    "Rogers, Glen",
+    "Mainous, III, Arch G."
+   ],
+   "year": "1988",
+   "venue": "Academy of Management Journal",
+   "volume": "31",
+   "issue": "3",
+   "pages": "599--627",
+   "doi": "10.5465/256461",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "satisfaction, investment, and quality of alternatives predict EVLN responses"
+  },
+  {
+   "paper_id": "morrison2014employee",
+   "title": "Employee Voice and Silence",
+   "authors": [
+    "Morrison, Elizabeth Wolfe"
+   ],
+   "year": "2014",
+   "venue": "Annual Review of Organizational Psychology and Organizational Behavior",
+   "volume": "1",
+   "issue": "",
+   "pages": "173--197",
+   "doi": "10.1146/annurev-orgpsych-031413-091328",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "review: voice as upward communication; silence; safety and efficacy judgments"
+  },
+  {
+   "paper_id": "morrison2023employee",
+   "title": "Employee Voice and Silence: Taking Stock a Decade Later",
+   "authors": [
+    "Morrison, Elizabeth Wolfe"
+   ],
+   "year": "2023",
+   "venue": "Annual Review of Organizational Psychology and Organizational Behavior",
+   "volume": "10",
+   "issue": "",
+   "pages": "79--107",
+   "doi": "10.1146/annurev-orgpsych-120920-054654",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "updated review of employee voice and silence research"
+  },
+  {
+   "paper_id": "milliken2003exploratory",
+   "title": "An Exploratory Study of Employee Silence: Issues That Employees Don't Communicate Upward and Why",
+   "authors": [
+    "Milliken, Frances J.",
+    "Morrison, Elizabeth Wolfe",
+    "Hewlin, Patricia F."
+   ],
+   "year": "2003",
+   "venue": "Journal of Management Studies",
+   "volume": "40",
+   "issue": "6",
+   "pages": "1453--1476",
+   "doi": "10.1111/1467-6486.00387",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "interview study: fear of negative labeling and damaged relationships as main reason for silence"
+  },
+  {
+   "paper_id": "morrison2000organizational",
+   "title": "Organizational Silence: A Barrier to Change and Development in a Pluralistic World",
+   "authors": [
+    "Morrison, Elizabeth Wolfe",
+    "Milliken, Frances J."
+   ],
+   "year": "2000",
+   "venue": "Academy of Management Review",
+   "volume": "25",
+   "issue": "4",
+   "pages": "706--725",
+   "doi": "10.5465/amr.2000.3707697",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "organizational silence as widespread and collectively reinforced"
+  },
+  {
+   "paper_id": "detert2011implicit",
+   "title": "Implicit Voice Theories: Taken-for-Granted Rules of Self-Censorship at Work",
+   "authors": [
+    "Detert, James R.",
+    "Edmondson, Amy C."
+   ],
+   "year": "2011",
+   "venue": "Academy of Management Journal",
+   "volume": "54",
+   "issue": "3",
+   "pages": "461--488",
+   "doi": "10.5465/amj.2011.61967925",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "implicit voice theories predict silence; measures developed"
+  },
+  {
+   "paper_id": "detert2007leadership",
+   "title": "Leadership Behavior and Employee Voice: Is the Door Really Open?",
+   "authors": [
+    "Detert, James R.",
+    "Burris, Ethan R."
+   ],
+   "year": "2007",
+   "venue": "Academy of Management Journal",
+   "volume": "50",
+   "issue": "4",
+   "pages": "869--884",
+   "doi": "10.5465/amj.2007.26279183",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "managerial openness related to voice through psychological safety"
+  },
+  {
+   "paper_id": "edmondson1999psychological",
+   "title": "Psychological Safety and Learning Behavior in Work Teams",
+   "authors": [
+    "Edmondson, Amy"
+   ],
+   "year": "1999",
+   "venue": "Administrative Science Quarterly",
+   "volume": "44",
+   "issue": "2",
+   "pages": "350--383",
+   "doi": "10.2307/2666999",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "definition and measure of team psychological safety"
+  },
+  {
+   "paper_id": "kishgephart2009silenced",
+   "title": "Silenced by Fear: The Nature, Sources, and Consequences of Fear at Work",
+   "authors": [
+    "Kish-Gephart, Jennifer J.",
+    "Detert, James R.",
+    "Trevi{\\~n}o, Linda Klebe",
+    "Edmondson, Amy C."
+   ],
+   "year": "2009",
+   "venue": "Research in Organizational Behavior",
+   "volume": "29",
+   "issue": "",
+   "pages": "163--194",
+   "doi": "10.1016/j.riob.2009.07.002",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "fear as a driver of workplace silence"
+  },
+  {
+   "paper_id": "liang2012psychological",
+   "title": "Psychological Antecedents of Promotive and Prohibitive Voice: A Two-Wave Examination",
+   "authors": [
+    "Liang, Jian",
+    "Farh, Crystal I. C.",
+    "Farh, Jiing-Lih"
+   ],
+   "year": "2012",
+   "venue": "Academy of Management Journal",
+   "volume": "55",
+   "issue": "1",
+   "pages": "71--92",
+   "doi": "10.5465/amj.2010.0176",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "psychological safety more strongly related to prohibitive than promotive voice; voice measures"
+  },
+  {
+   "paper_id": "vandyne2003conceptualizing",
+   "title": "Conceptualizing Employee Silence and Employee Voice as Multidimensional Constructs",
+   "authors": [
+    "{Van Dyne}, Linn",
+    "Ang, Soon",
+    "Botero, Isabel C."
+   ],
+   "year": "2003",
+   "venue": "Journal of Management Studies",
+   "volume": "40",
+   "issue": "6",
+   "pages": "1359--1392",
+   "doi": "10.1111/1467-6486.00384",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "silence and voice differentiated by motive (acquiescent, defensive, prosocial)"
+  },
+  {
+   "paper_id": "near1985organizational",
+   "title": "Organizational Dissidence: The Case of Whistle-Blowing",
+   "authors": [
+    "Near, Janet P.",
+    "Miceli, Marcia P."
+   ],
+   "year": "1985",
+   "venue": "Journal of Business Ethics",
+   "volume": "4",
+   "issue": "1",
+   "pages": "1--16",
+   "doi": "10.1007/BF00382668",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "definition of whistleblowing covering disclosure to parties able to act"
+  },
+  {
+   "paper_id": "mesmermagnus2005whistleblowing",
+   "title": "Whistleblowing in Organizations: An Examination of Correlates of Whistleblowing Intentions, Actions, and Retaliation",
+   "authors": [
+    "Mesmer-Magnus, Jessica R.",
+    "Viswesvaran, Chockalingam"
+   ],
+   "year": "2005",
+   "venue": "Journal of Business Ethics",
+   "volume": "62",
+   "issue": "3",
+   "pages": "277--297",
+   "doi": "10.1007/s10551-005-0849-1",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "meta-analysis: correlates predict intentions more strongly than actions; retaliation predicted by contextual variables"
+  },
+  {
+   "paper_id": "dworkin1998internal",
+   "title": "Internal vs. External Whistleblowers: A Comparison of Whistleblowering Processes",
+   "authors": [
+    "Dworkin, Terry Morehead",
+    "Baucus, Melissa S."
+   ],
+   "year": "1998",
+   "venue": "Journal of Business Ethics",
+   "volume": "17",
+   "issue": "12",
+   "pages": "1281--1298",
+   "doi": "10.1023/A:1005916210589",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "external whistleblowers had shorter tenure, more evidence, more effectiveness, more retaliation than internal ones"
+  },
+  {
+   "paper_id": "kaptein2011inaction",
+   "title": "From Inaction to External Whistleblowing: The Influence of the Ethical Culture of Organizations on Employee Responses to Observed Wrongdoing",
+   "authors": [
+    "Kaptein, Muel"
+   ],
+   "year": "2011",
+   "venue": "Journal of Business Ethics",
+   "volume": "98",
+   "issue": "3",
+   "pages": "513--530",
+   "doi": "10.1007/s10551-010-0591-1",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "ethical culture negatively related to intended inaction and external whistleblowing, positively to internal reporting"
+  },
+  {
+   "paper_id": "culiberg2017evolution",
+   "title": "The Evolution of Whistleblowing Studies: A Critical Review and Research Agenda",
+   "authors": [
+    "Culiberg, Barbara",
+    "Miheli\\v{c}, Katarina Katja"
+   ],
+   "year": "2017",
+   "venue": "Journal of Business Ethics",
+   "volume": "146",
+   "issue": "4",
+   "pages": "787--803",
+   "doi": "10.1007/s10551-016-3237-0",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "review organizing whistleblowing research by who, what, how, why, to whom"
+  },
+  {
+   "paper_id": "xiao2022employee",
+   "title": "Employee Sensitivity to the Risk of Whistleblowing via Social Media: The Role of Social Media Strategy and Policy",
+   "authors": [
+    "Xiao, Fangjun",
+    "Wong-On-Wing, Bernard"
+   ],
+   "year": "2022",
+   "venue": "Journal of Business Ethics",
+   "volume": "181",
+   "issue": "2",
+   "pages": "519--542",
+   "doi": "10.1007/s10551-021-04914-0",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "social media strategy and policy affect employee sensitivity to risk of whistleblowing via social media"
+  },
+  {
+   "paper_id": "miceli2008whistleblowing",
+   "title": "Whistle-Blowing in Organizations",
+   "authors": [
+    "Miceli, Marcia P.",
+    "Near, Janet Pollex",
+    "Dworkin, Terry Morehead"
+   ],
+   "year": "2008",
+   "venue": "Routledge",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "10.4324/9780203809495",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "book-length synthesis of whistleblowing research"
+  },
+  {
+   "paper_id": "weaver1999integrated",
+   "title": "Integrated and Decoupled Corporate Social Performance: Management Commitments, External Pressures, and Corporate Ethics Practices",
+   "authors": [
+    "Weaver, Gary R.",
+    "Trevi{\\~n}o, Linda Klebe",
+    "Cochran, Philip L."
+   ],
+   "year": "1999",
+   "venue": "Academy of Management Journal",
+   "volume": "42",
+   "issue": "5",
+   "pages": "539--552",
+   "doi": "10.5465/256975",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "external pressures encourage easily decoupled ethics practices"
+  },
+  {
+   "paper_id": "bromley2012smoke",
+   "title": "From Smoke and Mirrors to Walking the Talk: Decoupling in the Contemporary World",
+   "authors": [
+    "Bromley, Patricia",
+    "Powell, Walter W."
+   ],
+   "year": "2012",
+   "venue": "Academy of Management Annals",
+   "volume": "6",
+   "issue": "1",
+   "pages": "483--530",
+   "doi": "10.5465/19416520.2012.684462",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "decoupling persists, increasingly as means-ends gaps"
+  },
+  {
+   "paper_id": "backhaus2004conceptualizing",
+   "title": "Conceptualizing and Researching Employer Branding",
+   "authors": [
+    "Backhaus, Kristin",
+    "Tikoo, Surinder"
+   ],
+   "year": "2004",
+   "venue": "Career Development International",
+   "volume": "9",
+   "issue": "5",
+   "pages": "501--517",
+   "doi": "10.1108/13620430410550754",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "employer branding promotes the employer image inside and outside the firm"
+  },
+  {
+   "paper_id": "jones2014why",
+   "title": "Why Are Job Seekers Attracted by Corporate Social Performance? Experimental and Field Tests of Three Signal-Based Mechanisms",
+   "authors": [
+    "Jones, David A.",
+    "Willness, Chelsea R.",
+    "Madey, Sarah"
+   ],
+   "year": "2014",
+   "venue": "Academy of Management Journal",
+   "volume": "57",
+   "issue": "2",
+   "pages": "383--404",
+   "doi": "10.5465/amj.2011.0848",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "job seekers respond to corporate social performance signals via pride, value fit, expected treatment"
+  },
+  {
+   "paper_id": "treem2013social",
+   "title": "Social Media Use in Organizations: Exploring the Affordances of Visibility, Editability, Persistence, and Association",
+   "authors": [
+    "Treem, Jeffrey W.",
+    "Leonardi, Paul M."
+   ],
+   "year": "2013",
+   "venue": "Annals of the International Communication Association",
+   "volume": "36",
+   "issue": "1",
+   "pages": "143--189",
+   "doi": "10.1080/23808985.2013.11679130",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "social media affordances of visibility and persistence"
+  },
+  {
+   "paper_id": "miles2014employee",
+   "title": "Employee Voice: Untapped Resource or Social Media Time Bomb?",
+   "authors": [
+    "Miles, Sandra Jeanquart",
+    "Mangold, W. Glynn"
+   ],
+   "year": "2014",
+   "venue": "Business Horizons",
+   "volume": "57",
+   "issue": "3",
+   "pages": "401--411",
+   "doi": "10.1016/j.bushor.2013.12.011",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "social media let employees reach large audiences with reputational consequences"
+  },
+  {
+   "paper_id": "briscoe2016social",
+   "title": "Social Activism in and Around Organizations",
+   "authors": [
+    "Briscoe, Forrest",
+    "Gupta, Abhinav"
+   ],
+   "year": "2016",
+   "venue": "Academy of Management Annals",
+   "volume": "10",
+   "issue": "1",
+   "pages": "671--727",
+   "doi": "10.5465/19416520.2016.1153261",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "insider-outsider framework for social activism in and around organizations"
+  },
+  {
+   "paper_id": "jaakkola2020designing",
+   "title": "Designing Conceptual Articles: Four Approaches",
+   "authors": [
+    "Jaakkola, Elina"
+   ],
+   "year": "2020",
+   "venue": "AMS Review",
+   "volume": "10",
+   "issue": "1--2",
+   "pages": "18--26",
+   "doi": "10.1007/s13162-020-00161-0",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "model-type conceptual article design"
+  },
+  {
+   "paper_id": "whetten1989constitutes",
+   "title": "What Constitutes a Theoretical Contribution?",
+   "authors": [
+    "Whetten, David A."
+   ],
+   "year": "1989",
+   "venue": "Academy of Management Review",
+   "volume": "14",
+   "issue": "4",
+   "pages": "490--495",
+   "doi": "10.5465/amr.1989.4308371",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "elements of a theoretical contribution: what, how, why"
+  },
+  {
+   "paper_id": "cornelissen2017developing",
+   "title": "Editor's Comments: Developing Propositions, a Process Model, or a Typology? Addressing the Challenges of Writing Theory Without a Boilerplate",
+   "authors": [
+    "Cornelissen, Joep"
+   ],
+   "year": "2017",
+   "venue": "Academy of Management Review",
+   "volume": "42",
+   "issue": "1",
+   "pages": "1--9",
+   "doi": "10.5465/amr.2016.0196",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "definition",
+   "supports_claim": "propositional style of theorizing"
+  },
+  {
+   "paper_id": "yang2026managing",
+   "title": "Managing Employee Online Whistleblowing Regarding Corporate Social Advocacy ({CSA}): Integrating Insights from Signaling Theory and Ideological Psychological Contract ({IPC}) Perspective",
+   "authors": [
+    "Yang, C. Y.",
+    "Fong, I. W."
+   ],
+   "year": "2026",
+   "venue": "Journal of Communication Management",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "10.1108/JCOM-03-2025-0076",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "direct_core",
+   "supports_claim": "nearest neighbour: ideological contract and signaling perspectives on employee online whistleblowing about corporate social advocacy"
+  },
+  {
+   "paper_id": "protect2025talkin",
+   "title": "Talkin' Bout My Generation: Does Your Age Impact Your Attitude to Whistleblowing?",
+   "authors": [
+    "{Protect}"
+   ],
+   "year": "2025",
+   "venue": "Web article by Protect (UK whistleblowing charity) reporting a YouGov survey and focus groups",
+   "volume": "",
+   "issue": "",
+   "pages": "",
+   "doi": "",
+   "url": "https://protect-advice.org.uk/talkin-bout-my-generation/",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "non-peer-reviewed UK practitioner survey: youngest respondents less likely to say they would raise concerns internally, more likely to say they would go to social media or press"
+  },
+  {
+   "paper_id": "trevino2006behavioral",
+   "title": "Behavioral Ethics in Organizations: A Review",
+   "authors": [
+    "Trevi{\\~n}o, Linda Klebe",
+    "Weaver, Gary R.",
+    "Reynolds, Scott J."
+   ],
+   "year": "2006",
+   "venue": "Journal of Management",
+   "volume": "32",
+   "issue": "6",
+   "pages": "951--990",
+   "doi": "10.1177/0149206306294258",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "context",
+   "supports_claim": "review of behavioral ethics in organizations: individual, group, organizational influences"
+  },
+  {
+   "paper_id": "bauer2007newcomer",
+   "title": "Newcomer Adjustment During Organizational Socialization: A Meta-Analytic Review of Antecedents, Outcomes, and Methods",
+   "authors": [
+    "Bauer, Talya N.",
+    "Bodner, Todd",
+    "Erdogan, Berrin",
+    "Truxillo, Donald M.",
+    "Tucker, Jennifer S."
+   ],
+   "year": "2007",
+   "venue": "Journal of Applied Psychology",
+   "volume": "92",
+   "issue": "3",
+   "pages": "707--721",
+   "doi": "10.1037/0021-9010.92.3.707",
+   "url": "",
+   "abstract": "",
+   "abstract_source": "missing",
+   "relevance": "same_line_support",
+   "supports_claim": "newcomer adjustment involves role clarity, self-efficacy, social acceptance"
+  }
+ ]
+}

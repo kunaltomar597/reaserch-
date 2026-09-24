@@ -1,0 +1,267 @@
+{
+ "mannheim1952problem": {
+  "claim": "generation as shared historical location; shared location is a precondition, not a guarantee, of a shared outlook",
+  "support_label": "definition",
+  "section": "literature_review"
+ },
+ "twenge2010generational": {
+  "claim": "time-lag study of US high school seniors: leisure values rose, work centrality fell, no rise in altruistic work values for the most recent cohort studied",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "costanza2012generational": {
+  "claim": "meta-analysis: generational differences in job satisfaction, commitment, turnover intention small or near zero",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "lyons2014generational": {
+  "claim": "review: evidence on generational differences at work is fractured, largely descriptive, methodologically inconsistent",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "rudolph2018leadership": {
+  "claim": "critical review of generations and leadership; lifespan perspective as alternative",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "rudolph2017considering": {
+  "claim": "lifespan developmental perspective as an alternative to generational explanations",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "rudolph2021generations": {
+  "claim": "sets out common claims about generations argued to lack evidential support; generational boundaries set by convention",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "parry2011generational": {
+  "claim": "review: evidence for generational differences in work values is mixed; age/cohort confound",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "joshi2010unpacking": {
+  "claim": "generational identity dimensions activated under particular organizational conditions",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "rousseau1989psychological": {
+  "claim": "definition of the psychological contract as individual beliefs in reciprocal obligations",
+  "support_label": "definition",
+  "section": "literature_review"
+ },
+ "rousseau2001schema": {
+  "claim": "psychological contracts form from pre-entry schemas and promises conveyed during recruitment and socialization",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "morrison1997employees": {
+  "claim": "breach versus violation; reneging versus incongruence; sensemaking preceding violation",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "robinson2000development": {
+  "claim": "longitudinal study: breach more likely with little pre-hire interaction with organizational agents; violation stronger when breach attributed to reneging and handled unfairly; breach and violation measures",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "zhao2007impact": {
+  "claim": "meta-analysis linking breach to outcomes via violation and mistrust",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "thompson2003violations": {
+  "claim": "ideological currency: credible commitment to a valued cause benefiting parties beyond the employee",
+  "support_label": "definition",
+  "section": "introduction"
+ },
+ "turnley1999impact": {
+  "claim": "contract violation associated with more exit, voice, neglect and less loyalty; alternatives moderate violation-exit link",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "deng2023serving": {
+  "claim": "ideological breach leads to rumination, self-affirmation, and compensatory serving behavior",
+  "support_label": "same_line_support",
+  "section": "introduction"
+ },
+ "yang2022going": {
+  "claim": "ideological breach leads to pro-social rule breaking as corrective behavior",
+  "support_label": "same_line_support",
+  "section": "introduction"
+ },
+ "coyleshapiro2019psychological": {
+  "claim": "review listing ideological currency among directions for future psychological contract research",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "hirschman1970exit": {
+  "claim": "exit versus voice as responses to organizational decline; loyalty; voice conveys information that exit does not",
+  "support_label": "definition",
+  "section": "introduction"
+ },
+ "farrell1983exit": {
+  "claim": "EVLN typology with active/passive and constructive/destructive dimensions",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "rusbult1988impact": {
+  "claim": "satisfaction, investment, and quality of alternatives predict EVLN responses",
+  "support_label": "same_line_support",
+  "section": "theoretical_framework"
+ },
+ "morrison2014employee": {
+  "claim": "review: voice as upward communication; silence; safety and efficacy judgments",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "morrison2023employee": {
+  "claim": "updated review of employee voice and silence research",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "milliken2003exploratory": {
+  "claim": "interview study: fear of negative labeling and damaged relationships as main reason for silence",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "morrison2000organizational": {
+  "claim": "organizational silence as widespread and collectively reinforced",
+  "support_label": "same_line_support",
+  "section": "introduction"
+ },
+ "detert2011implicit": {
+  "claim": "implicit voice theories predict silence; measures developed",
+  "support_label": "direct_core",
+  "section": "conceptual_model"
+ },
+ "detert2007leadership": {
+  "claim": "managerial openness related to voice through psychological safety",
+  "support_label": "direct_core",
+  "section": "conceptual_model"
+ },
+ "edmondson1999psychological": {
+  "claim": "definition and measure of team psychological safety",
+  "support_label": "definition",
+  "section": "conceptual_model"
+ },
+ "kishgephart2009silenced": {
+  "claim": "fear as a driver of workplace silence",
+  "support_label": "same_line_support",
+  "section": "conceptual_model"
+ },
+ "liang2012psychological": {
+  "claim": "psychological safety more strongly related to prohibitive than promotive voice; voice measures",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "vandyne2003conceptualizing": {
+  "claim": "silence and voice differentiated by motive (acquiescent, defensive, prosocial)",
+  "support_label": "definition",
+  "section": "literature_review"
+ },
+ "near1985organizational": {
+  "claim": "definition of whistleblowing covering disclosure to parties able to act",
+  "support_label": "definition",
+  "section": "literature_review"
+ },
+ "mesmermagnus2005whistleblowing": {
+  "claim": "meta-analysis: correlates predict intentions more strongly than actions; retaliation predicted by contextual variables",
+  "support_label": "direct_core",
+  "section": "literature_review"
+ },
+ "dworkin1998internal": {
+  "claim": "external whistleblowers had shorter tenure, more evidence, more effectiveness, more retaliation than internal ones",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "kaptein2011inaction": {
+  "claim": "ethical culture negatively related to intended inaction and external whistleblowing, positively to internal reporting",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "culiberg2017evolution": {
+  "claim": "review organizing whistleblowing research by who, what, how, why, to whom",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "xiao2022employee": {
+  "claim": "social media strategy and policy affect employee sensitivity to risk of whistleblowing via social media",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "miceli2008whistleblowing": {
+  "claim": "book-length synthesis of whistleblowing research",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "weaver1999integrated": {
+  "claim": "external pressures encourage easily decoupled ethics practices",
+  "support_label": "same_line_support",
+  "section": "conceptual_model"
+ },
+ "bromley2012smoke": {
+  "claim": "decoupling persists, increasingly as means-ends gaps",
+  "support_label": "same_line_support",
+  "section": "conceptual_model"
+ },
+ "backhaus2004conceptualizing": {
+  "claim": "employer branding promotes the employer image inside and outside the firm",
+  "support_label": "definition",
+  "section": "introduction"
+ },
+ "jones2014why": {
+  "claim": "job seekers respond to corporate social performance signals via pride, value fit, expected treatment",
+  "support_label": "same_line_support",
+  "section": "introduction"
+ },
+ "treem2013social": {
+  "claim": "social media affordances of visibility and persistence",
+  "support_label": "same_line_support",
+  "section": "literature_review"
+ },
+ "miles2014employee": {
+  "claim": "social media let employees reach large audiences with reputational consequences",
+  "support_label": "context",
+  "section": "literature_review"
+ },
+ "briscoe2016social": {
+  "claim": "insider-outsider framework for social activism in and around organizations",
+  "support_label": "context",
+  "section": "conceptual_model"
+ },
+ "jaakkola2020designing": {
+  "claim": "model-type conceptual article design",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "whetten1989constitutes": {
+  "claim": "elements of a theoretical contribution: what, how, why",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "cornelissen2017developing": {
+  "claim": "propositional style of theorizing",
+  "support_label": "definition",
+  "section": "theoretical_framework"
+ },
+ "yang2026managing": {
+  "claim": "nearest neighbour: ideological contract and signaling perspectives on employee online whistleblowing about corporate social advocacy",
+  "support_label": "direct_core",
+  "section": "introduction"
+ },
+ "protect2025talkin": {
+  "claim": "non-peer-reviewed UK practitioner survey: youngest respondents less likely to say they would raise concerns internally, more likely to say they would go to social media or press",
+  "support_label": "context",
+  "section": "introduction"
+ },
+ "trevino2006behavioral": {
+  "claim": "review of behavioral ethics in organizations: individual, group, organizational influences",
+  "support_label": "context",
+  "section": "introduction"
+ },
+ "bauer2007newcomer": {
+  "claim": "newcomer adjustment involves role clarity, self-efficacy, social acceptance",
+  "support_label": "same_line_support",
+  "section": "conceptual_model"
+ }
+}
