@@ -32,3 +32,6 @@ Additional in-review wording fix: "leverage" removed from the I-07 sentence duri
   - draft_lint: {"ok": true, "n": 0}
   - citations_lint: {"ok": true, "n_issues": 0, "n_warnings": 2}
 - Author-required: I-08 (title wording).
+
+## Title decision (author-required item resolved)
+Retitled so Generation Z is framed as the question the paper tests, not as a cause. All gates re-run after the change: run_gates all passed; paper-audit gate PASS with the same advisories as before.

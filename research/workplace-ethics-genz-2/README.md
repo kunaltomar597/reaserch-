@@ -1,4 +1,4 @@
-# Ethics Learned at a Distance: Distributed Entry and the Ethical Imprinting of Generation Z Newcomers
+# Ethics Learned at a Distance: Distributed Entry, Ethical Imprinting, and the Generation Z Question
 
 The second conceptual paper produced from the same brief as `../workplace-ethics-genz/`, using the spark-to-paper `ts-paper` pipeline in proposal mode (no data, no numbers). The angle is different from paper 1: it covers how newcomers learn enacted ethical norms when they enter at a distance, and whether that learning persists. It draws on social learning theory and imprinting theory and states five propositions.
 

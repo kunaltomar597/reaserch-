@@ -1,5 +1,5 @@
 {
-  "paper_title": "Promises Made in Public: Venue Congruence and Generation Z's Ethical Voice After Ideological Contract Breach",
+  "paper_title": "Promises Made in Public: Ethical Voice After Ideological Contract Breach and the Generation Z Question",
   "keywords": "Generation Z, workplace ethics, ideological psychological contract, employee voice, whistleblowing, generational cohort",
   "contributions": [
     "C1: Introduces promise publicity, the extent to which an employee's understanding of the employer's ethical obligations was formed through public-facing communication, as a feature of ideological psychological contract formation, and proposes that it intensifies felt violation after breach (P1).",
@@ -29,11 +29,21 @@
     "metrics": [],
     "note": "Conceptual paper. No study is conducted. The discussion section specifies a testing agenda (multi-wave newcomer survey across age groups; scenario experiments manipulating promise publicity and internal voice safety) without any results."
   },
-  "section_order": ["introduction", "literature_review", "theoretical_framework", "conceptual_model", "discussion", "conclusion"],
+  "section_order": [
+    "introduction",
+    "literature_review",
+    "theoretical_framework",
+    "conceptual_model",
+    "discussion",
+    "conclusion"
+  ],
   "sections": {
     "introduction": {
       "title": "Introduction",
-      "target_words": [1000, 1500],
+      "target_words": [
+        1000,
+        1500
+      ],
       "key_arguments": [
         "Workplace ethics research asks how employees respond to wrongdoing; generational research asks whether cohorts differ; the two rarely meet except through claims about value levels.",
         "Value-level differences between generations are weakly supported (meta-analyses and critical reviews).",
@@ -41,39 +51,141 @@
         "Practitioner polling hints that the youngest workers are less willing to raise concerns internally and more willing to go public; this is non-peer-reviewed and cannot separate age, cohort, and career stage.",
         "The paper proposes the venue congruence model grounded in psychological contract theory and the exit-voice-loyalty framework."
       ],
-      "citation_types": ["CONTEXT", "CORE"],
+      "citation_types": [
+        "CONTEXT",
+        "CORE"
+      ],
       "paragraph_outline": [
-        {"para": 1, "topic": "stakes: ethical complaints and where they go", "key_points": ["internal channels vs public disclosure", "reputational and organizational learning stakes"], "citations": "3-4", "sentences": 5},
-        {"para": 2, "topic": "the generational framing and its weak evidential base", "key_points": ["value-level differences small", "age-period-cohort confound"], "citations": "4-5", "sentences": 5},
-        {"para": 3, "topic": "the puzzle of venue", "key_points": ["practitioner poll pattern, flagged as non-peer-reviewed", "cannot separate cohort from age or career stage"], "citations": "2-3", "sentences": 5},
-        {"para": 4, "topic": "argument of the paper", "key_points": ["promise publicity", "venue congruence", "internal voice safety", "rival cohort vs career-stage propositions"], "citations": "2-3", "sentences": 5},
-        {"para": 5, "topic": "contributions list", "key_points": ["three contributions"], "citations": "2-4", "sentences": 3}
+        {
+          "para": 1,
+          "topic": "stakes: ethical complaints and where they go",
+          "key_points": [
+            "internal channels vs public disclosure",
+            "reputational and organizational learning stakes"
+          ],
+          "citations": "3-4",
+          "sentences": 5
+        },
+        {
+          "para": 2,
+          "topic": "the generational framing and its weak evidential base",
+          "key_points": [
+            "value-level differences small",
+            "age-period-cohort confound"
+          ],
+          "citations": "4-5",
+          "sentences": 5
+        },
+        {
+          "para": 3,
+          "topic": "the puzzle of venue",
+          "key_points": [
+            "practitioner poll pattern, flagged as non-peer-reviewed",
+            "cannot separate cohort from age or career stage"
+          ],
+          "citations": "2-3",
+          "sentences": 5
+        },
+        {
+          "para": 4,
+          "topic": "argument of the paper",
+          "key_points": [
+            "promise publicity",
+            "venue congruence",
+            "internal voice safety",
+            "rival cohort vs career-stage propositions"
+          ],
+          "citations": "2-3",
+          "sentences": 5
+        },
+        {
+          "para": 5,
+          "topic": "contributions list",
+          "key_points": [
+            "three contributions"
+          ],
+          "citations": "2-4",
+          "sentences": 3
+        }
       ],
       "figures": [],
       "tables": []
     },
     "literature_review": {
       "title": "Literature Review",
-      "target_words": [1500, 2300],
+      "target_words": [
+        1500,
+        2300
+      ],
       "key_arguments": [
         "Theme A: generations at work, what is and is not established.",
         "Theme B: ideological psychological contracts and responses to breach.",
         "Theme C: ethical voice, silence, and whistleblowing channels, including social media.",
         "Closing: the three literatures do not connect the venue of the promise to the venue of the response; nearest neighbour Yang and Fong is differentiated."
       ],
-      "citation_types": ["CORE", "CONTEXT", "DEFINITION"],
+      "citation_types": [
+        "CORE",
+        "CONTEXT",
+        "DEFINITION"
+      ],
       "paragraph_outline": [
-        {"para": 1, "topic": "Theme A generations", "key_points": ["Mannheim", "reviews and meta-analyses", "lifespan critique", "generational identity"], "citations": "8-10", "sentences": 10},
-        {"para": 2, "topic": "Theme B ideological contracts", "key_points": ["Rousseau", "breach vs violation", "ideological currency", "responses to ideological breach", "EVLN after violation"], "citations": "8-10", "sentences": 10},
-        {"para": 3, "topic": "Theme C voice and whistleblowing channels", "key_points": ["voice and silence", "internal vs external whistleblowing", "ethical culture", "social media as voice channel"], "citations": "9-12", "sentences": 10},
-        {"para": 4, "topic": "closing: the unconnected gap", "key_points": ["nearest neighbour", "what is missing"], "citations": "1-2", "sentences": 5}
+        {
+          "para": 1,
+          "topic": "Theme A generations",
+          "key_points": [
+            "Mannheim",
+            "reviews and meta-analyses",
+            "lifespan critique",
+            "generational identity"
+          ],
+          "citations": "8-10",
+          "sentences": 10
+        },
+        {
+          "para": 2,
+          "topic": "Theme B ideological contracts",
+          "key_points": [
+            "Rousseau",
+            "breach vs violation",
+            "ideological currency",
+            "responses to ideological breach",
+            "EVLN after violation"
+          ],
+          "citations": "8-10",
+          "sentences": 10
+        },
+        {
+          "para": 3,
+          "topic": "Theme C voice and whistleblowing channels",
+          "key_points": [
+            "voice and silence",
+            "internal vs external whistleblowing",
+            "ethical culture",
+            "social media as voice channel"
+          ],
+          "citations": "9-12",
+          "sentences": 10
+        },
+        {
+          "para": 4,
+          "topic": "closing: the unconnected gap",
+          "key_points": [
+            "nearest neighbour",
+            "what is missing"
+          ],
+          "citations": "1-2",
+          "sentences": 5
+        }
       ],
       "figures": [],
       "tables": []
     },
     "theoretical_framework": {
       "title": "Theoretical Framework and Approach",
-      "target_words": [1000, 1600],
+      "target_words": [
+        1000,
+        1600
+      ],
       "key_arguments": [
         "Approach: theory adaptation/model-building conceptual paper with propositions.",
         "Why psychological contract theory with ideological currency fits: it defines what counts as an ethical promise and why breach is felt as betrayal.",
@@ -81,20 +193,76 @@
         "Why not alternatives: signaling theory (explains attraction, not post-breach response), social exchange in general (too broad), generational theory as causal theory (weak).",
         "Scope conditions."
       ],
-      "citation_types": ["CORE", "DEFINITION"],
+      "citation_types": [
+        "CORE",
+        "DEFINITION"
+      ],
       "paragraph_outline": [
-        {"para": 1, "topic": "approach", "key_points": ["conceptual article design", "propositional style"], "citations": "3", "sentences": 4},
-        {"para": 2, "topic": "psychological contract theory with ideological currency", "key_points": ["definition", "formation from schemas and promises", "why it fits"], "citations": "4-5", "sentences": 6},
-        {"para": 3, "topic": "exit-voice-loyalty", "key_points": ["Hirschman", "EVLN", "voice is venue-blind", "why it fits"], "citations": "3-4", "sentences": 6},
-        {"para": 4, "topic": "why these two and not others", "key_points": ["signaling", "social exchange", "generational theory"], "citations": "2-3", "sentences": 5},
-        {"para": 5, "topic": "scope conditions", "key_points": ["employees in organizations that make public ethical claims", "legal context", "not a theory of whistleblowing on crime per se"], "citations": "1-2", "sentences": 4}
+        {
+          "para": 1,
+          "topic": "approach",
+          "key_points": [
+            "conceptual article design",
+            "propositional style"
+          ],
+          "citations": "3",
+          "sentences": 4
+        },
+        {
+          "para": 2,
+          "topic": "psychological contract theory with ideological currency",
+          "key_points": [
+            "definition",
+            "formation from schemas and promises",
+            "why it fits"
+          ],
+          "citations": "4-5",
+          "sentences": 6
+        },
+        {
+          "para": 3,
+          "topic": "exit-voice-loyalty",
+          "key_points": [
+            "Hirschman",
+            "EVLN",
+            "voice is venue-blind",
+            "why it fits"
+          ],
+          "citations": "3-4",
+          "sentences": 6
+        },
+        {
+          "para": 4,
+          "topic": "why these two and not others",
+          "key_points": [
+            "signaling",
+            "social exchange",
+            "generational theory"
+          ],
+          "citations": "2-3",
+          "sentences": 5
+        },
+        {
+          "para": 5,
+          "topic": "scope conditions",
+          "key_points": [
+            "employees in organizations that make public ethical claims",
+            "legal context",
+            "not a theory of whistleblowing on crime per se"
+          ],
+          "citations": "1-2",
+          "sentences": 4
+        }
       ],
       "figures": [],
       "tables": []
     },
     "conceptual_model": {
       "title": "Conceptual Model and Propositions",
-      "target_words": [2000, 3000],
+      "target_words": [
+        2000,
+        3000
+      ],
       "key_arguments": [
         "Construct definitions, with new constructs flagged as the paper's own.",
         "P1 breach to felt violation, stronger under high promise publicity.",
@@ -103,24 +271,105 @@
         "P4 exit when internal voice unsafe and promise private.",
         "P5a cohort account vs P5b career-stage account."
       ],
-      "citation_types": ["CORE", "DEFINITION", "CONTEXT"],
+      "citation_types": [
+        "CORE",
+        "DEFINITION",
+        "CONTEXT"
+      ],
       "paragraph_outline": [
-        {"para": 1, "topic": "overview + figure", "key_points": ["model overview"], "citations": "0-1", "sentences": 4},
-        {"para": 2, "topic": "construct definitions", "key_points": ["ideological contract breach", "promise publicity (new)", "felt ethical violation", "internal voice safety", "four response forms"], "citations": "5-7", "sentences": 10},
-        {"para": 3, "topic": "P1", "key_points": ["explicit public promises reduce incongruence attributions", "decoupling"], "citations": "4-5", "sentences": 7},
-        {"para": 4, "topic": "P2 venue congruence", "key_points": ["promise audience", "visibility affordance", "external whistleblowing"], "citations": "4-5", "sentences": 7},
-        {"para": 5, "topic": "P3 internal voice safety", "key_points": ["psychological safety", "implicit voice theories", "ethical culture"], "citations": "4-5", "sentences": 7},
-        {"para": 6, "topic": "P4 exit", "key_points": ["Hirschman exit when voice blocked", "alternatives"], "citations": "3-4", "sentences": 6},
-        {"para": 7, "topic": "P5a/P5b rivals", "key_points": ["cohort", "career stage", "newcomer status", "tenure of external whistleblowers"], "citations": "4-6", "sentences": 8}
+        {
+          "para": 1,
+          "topic": "overview + figure",
+          "key_points": [
+            "model overview"
+          ],
+          "citations": "0-1",
+          "sentences": 4
+        },
+        {
+          "para": 2,
+          "topic": "construct definitions",
+          "key_points": [
+            "ideological contract breach",
+            "promise publicity (new)",
+            "felt ethical violation",
+            "internal voice safety",
+            "four response forms"
+          ],
+          "citations": "5-7",
+          "sentences": 10
+        },
+        {
+          "para": 3,
+          "topic": "P1",
+          "key_points": [
+            "explicit public promises reduce incongruence attributions",
+            "decoupling"
+          ],
+          "citations": "4-5",
+          "sentences": 7
+        },
+        {
+          "para": 4,
+          "topic": "P2 venue congruence",
+          "key_points": [
+            "promise audience",
+            "visibility affordance",
+            "external whistleblowing"
+          ],
+          "citations": "4-5",
+          "sentences": 7
+        },
+        {
+          "para": 5,
+          "topic": "P3 internal voice safety",
+          "key_points": [
+            "psychological safety",
+            "implicit voice theories",
+            "ethical culture"
+          ],
+          "citations": "4-5",
+          "sentences": 7
+        },
+        {
+          "para": 6,
+          "topic": "P4 exit",
+          "key_points": [
+            "Hirschman exit when voice blocked",
+            "alternatives"
+          ],
+          "citations": "3-4",
+          "sentences": 6
+        },
+        {
+          "para": 7,
+          "topic": "P5a/P5b rivals",
+          "key_points": [
+            "cohort",
+            "career stage",
+            "newcomer status",
+            "tenure of external whistleblowers"
+          ],
+          "citations": "4-6",
+          "sentences": 8
+        }
       ],
       "figures": [
-        {"id": "conceptual_model", "type": "framework", "caption": "The venue congruence model. Solid arrows show proposed main paths; dashed arrows show proposed moderation. All paths are propositions awaiting empirical test.", "label": "fig:model"}
+        {
+          "id": "conceptual_model",
+          "type": "framework",
+          "caption": "The venue congruence model. Solid arrows show proposed main paths; dashed arrows show proposed moderation. All paths are propositions awaiting empirical test.",
+          "label": "fig:model"
+        }
       ],
       "tables": []
     },
     "discussion": {
       "title": "Discussion and Implications",
-      "target_words": [1500, 2300],
+      "target_words": [
+        1500,
+        2300
+      ],
       "key_arguments": [
         "Theoretical implications for psychological contract theory, voice research, and generational research.",
         "Practical implications, framed as conditional on the propositions being supported.",
@@ -128,24 +377,97 @@
         "Boundary conditions and ways the model could fail.",
         "Limitations."
       ],
-      "citation_types": ["CONTEXT", "CORE", "METRIC"],
+      "citation_types": [
+        "CONTEXT",
+        "CORE",
+        "METRIC"
+      ],
       "paragraph_outline": [
-        {"para": 1, "topic": "theoretical implications", "key_points": ["promise venue", "voice venue", "rival generational explanations"], "citations": "4-6", "sentences": 8},
-        {"para": 2, "topic": "practical implications", "key_points": ["align public claims and practice", "credible internal channels for newcomers", "avoid responses that shrink voice safety"], "citations": "3-4", "sentences": 7},
-        {"para": 3, "topic": "testing agenda", "key_points": ["multi-wave newcomer design", "scenario experiments", "existing measures", "new promise publicity measure"], "citations": "4-6", "sentences": 8},
-        {"para": 4, "topic": "boundary conditions and failure modes", "key_points": ["legal regimes", "cultures", "retaliation", "where the model would be wrong"], "citations": "2-3", "sentences": 7},
-        {"para": 5, "topic": "limitations", "key_points": ["no data", "construct novelty", "Western literature base"], "citations": "1-2", "sentences": 5}
+        {
+          "para": 1,
+          "topic": "theoretical implications",
+          "key_points": [
+            "promise venue",
+            "voice venue",
+            "rival generational explanations"
+          ],
+          "citations": "4-6",
+          "sentences": 8
+        },
+        {
+          "para": 2,
+          "topic": "practical implications",
+          "key_points": [
+            "align public claims and practice",
+            "credible internal channels for newcomers",
+            "avoid responses that shrink voice safety"
+          ],
+          "citations": "3-4",
+          "sentences": 7
+        },
+        {
+          "para": 3,
+          "topic": "testing agenda",
+          "key_points": [
+            "multi-wave newcomer design",
+            "scenario experiments",
+            "existing measures",
+            "new promise publicity measure"
+          ],
+          "citations": "4-6",
+          "sentences": 8
+        },
+        {
+          "para": 4,
+          "topic": "boundary conditions and failure modes",
+          "key_points": [
+            "legal regimes",
+            "cultures",
+            "retaliation",
+            "where the model would be wrong"
+          ],
+          "citations": "2-3",
+          "sentences": 7
+        },
+        {
+          "para": 5,
+          "topic": "limitations",
+          "key_points": [
+            "no data",
+            "construct novelty",
+            "Western literature base"
+          ],
+          "citations": "1-2",
+          "sentences": 5
+        }
       ],
       "figures": [],
       "tables": []
     },
     "conclusion": {
       "title": "Conclusion",
-      "target_words": [200, 320],
-      "key_arguments": ["summary", "takeaway", "limitation", "next step"],
+      "target_words": [
+        200,
+        320
+      ],
+      "key_arguments": [
+        "summary",
+        "takeaway",
+        "limitation",
+        "next step"
+      ],
       "citation_types": [],
       "paragraph_outline": [
-        {"para": 1, "topic": "single-paragraph close", "key_points": ["venue not values", "propositions need testing"], "citations": "0", "sentences": 7}
+        {
+          "para": 1,
+          "topic": "single-paragraph close",
+          "key_points": [
+            "venue not values",
+            "propositions need testing"
+          ],
+          "citations": "0",
+          "sentences": 7
+        }
       ],
       "figures": [],
       "tables": []

@@ -20,3 +20,6 @@ rounds_run = 2 (round 2 on the edited text raised no new surviving issue). Round
 - Re-gate at `Thu Sep 24 09:45:13 UTC 2026` after fix-now edits: draft_lint {"ok": true, "n": 0}; citations_lint {"ok": true, "n_issues": 0, "n_warnings": 0}.
 - Later edits (paragraph split, boundary sentence, Bauer citation) re-gated by the final run_gates all: all gates passed.
 - Author-required: I-05 (title wording).
+
+## Title decision (author-required item resolved)
+Retitled so Generation Z is framed as the question the paper tests, not as a cause. All gates re-run after the change: run_gates all passed; paper-audit gate PASS with the same advisories as before.

@@ -1,4 +1,4 @@
-# Promises Made in Public: Venue Congruence and Generation Z's Ethical Voice After Ideological Contract Breach
+# Promises Made in Public: Ethical Voice After Ideological Contract Breach and the Generation Z Question
 
 Conceptual paper produced with the spark-to-paper `ts-paper` pipeline, run in proposal mode (no data, no numbers).
 
